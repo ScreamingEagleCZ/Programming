@@ -1,33 +1,34 @@
 print("To-Do list")
-
-user_prompt = "Type Add, Show, Edit, Complete or Quit: "
 # todos = [] - unusable with file handling
 
 while True:
-    user_action = input(user_prompt)
+    user_action = input("Type Add, Show, Edit, Complete or Quit: ")
     user_action = user_action.strip()  # strip cuts blank places from string
     match user_action:
         case 'add' | 'a':
             todo = input("What do U want to add: ") + "\n"  # adds break line to input (and to todos.txt)
 
-            file = open('todos.txt', 'r')  # opens file with read privileges
+            file = open('Files/todos.txt', 'r')  # opens file with read privileges
             todos = file.readlines()  # reads the data from file
             file.close()  # close the file after no longer needed
 
             todos.append(todo)  # adds to the end of list
 
-            file = open('todos.txt', 'w')  # opens file with Write privileges
+            file = open('Files/todos.txt', 'w')  # opens file with Write privileges
             file.writelines(todos)
             file.close()
         case 'show' | 'display' | 's':
-            file = open('todos.txt', 'r')  # opens file for reading
+            file = open('Files/todos.txt', 'r')  # opens file for reading
             todos = file.readlines()
             file.close()
+            # cutted_todos = [i.strip('\n') for i in todos]
+            # (then cutted_todos will be used in next for loop without strip method
+            # list comprehension short for loop - creates new list without \n in each word
             for i, each in enumerate(todos):  # enumerate returns index(i) of element + the list element in ()
-                print(f"{i + 1}) {each}")  # fstring - helps writing exactly variables in a string in single quotes
-
+                each = each.strip('\n')
+                print(f"{i + 1}) {each.capitalize()}")  # fstring - helps writing variables in a string in single quotes
         case 'edit' | 'e':
-            file = open('todos.txt', 'r')  # opens file for reading
+            file = open('Files/todos.txt', 'r')  # opens file for reading
             todos = file.readlines()
             file.close()
 
@@ -36,11 +37,11 @@ while True:
             new_todo = input("What will be the new ToDo?: ") + "\n"
             todos[number] = new_todo
 
-            file = open('todos.txt', 'w')
+            file = open('Files/todos.txt', 'w')
             file.writelines(todos)
             file.close()
         case 'complete' | 'c':  # technically delete
-            file = open("todos.txt", 'r')
+            file = open("Files/todos.txt", 'r')
             todos = file.readlines()
             file.close()
 
@@ -48,7 +49,7 @@ while True:
             number = number - 1
             todos.pop(number)  # deletes and returns element
 
-            file = open("todos.txt", 'w')
+            file = open("Files/todos.txt", 'w')
             file.writelines(todos)
             file.close()
         case 'quit' | 'q':
