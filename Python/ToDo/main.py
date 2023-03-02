@@ -7,53 +7,50 @@ while True:
     match user_action:
         case 'add' | 'a':
             todo = input("What do U want to add: ") + "\n"  # adds break line to input (and to todos.txt)
+            with open('Files/todos.txt', 'r') as file:  # open file with Read permission as file
 
-            file = open('Files/todos.txt', 'r')  # opens file with read privileges
-            todos = file.readlines()  # reads the data from file
-            file.close()  # close the file after no longer needed
+                todos = file.readlines()
 
             todos.append(todo)  # adds to the end of list
+            with open('Files/todos.txt', 'w') as file:
+                file.writelines(todos)
 
-            file = open('Files/todos.txt', 'w')  # opens file with Write privileges
-            file.writelines(todos)
-            file.close()
         case 'show' | 'display' | 's':
-            file = open('Files/todos.txt', 'r')  # opens file for reading
-            todos = file.readlines()
-            file.close()
-            # cutted_todos = [i.strip('\n') for i in todos]
-            # (then cutted_todos will be used in next for loop without strip method
-            # list comprehension short for loop - creates new list without \n in each word
+            with open('Files/todos.txt', 'r') as file:
+                todos = file.readlines()
+
             for i, each in enumerate(todos):  # enumerate returns index(i) of element + the list element in ()
                 each = each.strip('\n')
                 print(f"{i + 1}) {each.capitalize()}")  # fstring - helps writing variables in a string in single quotes
+
         case 'edit' | 'e':
-            file = open('Files/todos.txt', 'r')  # opens file for reading
-            todos = file.readlines()
-            file.close()
+            with open('Files/todos.txt', 'r') as file:
+                todos = file.readlines()
 
             number = int(input("Number of ToDo to Edit: "))
             number = number - 1  # because we want to start from 1 and not zero
             new_todo = input("What will be the new ToDo?: ") + "\n"
             todos[number] = new_todo
 
-            file = open('Files/todos.txt', 'w')
-            file.writelines(todos)
-            file.close()
+            with open('Files/todos.txt', 'w') as file:
+                file.writelines(todos)
+
         case 'complete' | 'c':  # technically delete
-            file = open("Files/todos.txt", 'r')
-            todos = file.readlines()
-            file.close()
+            with open('Files/todos.txt', 'r') as file:
+                todos = file.readlines()
 
             number = int(input("Number of which one to complete?: "))
             number = number - 1
+            todo_to_remove = todos[number].strip('\n')  # strip - so the later print is not on 2 rows
             todos.pop(number)  # deletes and returns element
 
-            file = open("Files/todos.txt", 'w')
-            file.writelines(todos)
-            file.close()
+            with open('Files/todos.txt', 'w') as file:
+                file.writelines(todos)
+
+            print(f"Todo ***{todo_to_remove}*** was removed...")
         case 'quit' | 'q':
             break  # stops the while TRUE loop
+
         case _:
             print("Not a valid command")
 print("Bye and have a nice day!")
