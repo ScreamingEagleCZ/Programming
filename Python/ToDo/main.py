@@ -1,14 +1,15 @@
-def get_todos():
-    with open('Files/todos.txt', 'r') as file:
+def get_todos(filepath):
+    with open(filepath, 'r') as file:
         todos_local = file.readlines()
     return todos_local
 
 
-def write_todos(todos_local):
-    with open('Files/todos.txt', 'w') as file:
+def write_todos(filepath, todos_local):
+    with open(filepath, 'w') as file:
         file.writelines(todos_local)
 
 
+file_path = 'Files/todos.txt'  # Filepath to file with list of todos for read and write
 print("To-Do list by Jakub Mukarovsky")
 
 while True:
@@ -21,12 +22,12 @@ while True:
         else:
             todo = user_action[4:] + "\n"
 
-        todos = get_todos()
+        todos = get_todos(file_path)
         todos.append(todo)  # adds to the end of list
-        write_todos(todos)
+        write_todos(file_path, todos)
 
     elif user_action.startswith('show'):
-        todos = get_todos()
+        todos = get_todos(file_path)
 
         for i, each in enumerate(todos):  # enumerate returns index(i) of element + the list element in ()
             each = each.strip('\n')
@@ -39,12 +40,12 @@ while True:
             else:
                 number = int(user_action[5:])
 
-            todos = get_todos()
+            todos = get_todos(file_path)
 
             number = number - 1  # because we want to start from 1 and not zero
             new_todo = input("What will be the new ToDo?: ") + "\n"
             todos[number] = new_todo
-            write_todos(todos)
+            write_todos(file_path, todos)
         except ValueError:
             print("You were supposed to enter a number...")
             continue
@@ -59,15 +60,15 @@ while True:
             else:
                 number = int(user_action[9:])
 
-            todos = get_todos()
+            todos = get_todos(file_path)
 
             number = number - 1
             todo_to_remove = todos[number].strip('\n')  # strip - so the later print is not on 2 rows
             todos.pop(number)  # deletes and returns element
 
-            write_todos(todos)
+            write_todos(file_path, todos)
 
-            print(f"Todo ***{todo_to_remove}*** was removed...")
+            print(f"Todo *** {todo_to_remove} *** was removed...")
         except ValueError:
             print("You were supposed to enter a number...")
             continue
