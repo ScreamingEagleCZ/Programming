@@ -5,6 +5,7 @@ def get_todos(filepath="Files/todos.txt"):  # default argument if none passed to
         todos_local = file.readlines()
     return todos_local
 
+"just a test for git"
 
 def write_todos(todos_local, filepath="Files/todos.txt"):  # default argument comes after non default
     """ Open file and write list of to-do items """
