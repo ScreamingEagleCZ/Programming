@@ -1,0 +1,12 @@
+[{"question_text": "What is Mustang?",
+  "alternatives": ["Ferrari", "Lamborghini", "Ford", "Dacia"],
+  "correct_answer": 3},
+ {"question_text": "What is Corvette?",
+  "alternatives": ["Dodge", "Chevrolet", "Ford", "Chrysler"],
+  "correct_answer": 2},
+ {"question_text": "What is GR86?",
+  "alternatives": ["Toyota", "Subaru", "Nissan", "Datsun"],
+  "correct_answer": 1},
+ {"question_text": "What is Charger?",
+  "alternatives": ["GMC", "Aston Martin", "Ford", "Dodge"],
+  "correct_answer": 4}]

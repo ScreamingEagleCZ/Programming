@@ -1,6 +1,8 @@
 import functions
+import time
 
 print("To-Do list by Jakub Mukarovsky")
+print(time.strftime("%Y %b %d - %H%M %A"))
 
 while True:
     user_action = input("Type add, show, edit, complete or quit: ")
