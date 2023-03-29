@@ -3,7 +3,7 @@ import time
 
 print("To-Do list by Jakub Mukarovsky")
 print(time.strftime("%Y %b %d - %H%M %A"))
-
+# test git
 while True:
     user_action = input("Type add, show, edit, complete or quit: ")
     user_action = user_action.strip()  # strip cuts blank places from string
