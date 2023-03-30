@@ -1,11 +1,28 @@
 import functions
-import PySimpleGUI as sg
+import PySimpleGUI as Sg
 
-label = sg.Text("Type in a To-Do")
-input_box = sg.InputText(tooltip="Enter To-Do")
-add_button = sg.Button("Add")
+label = Sg.Text("Type in a To-Do")
+input_box = Sg.InputText(tooltip="Enter To-Do", key="todo")
+add_button = Sg.Button("Add")
 
-window = sg.Window('My To-Do App', [[label], [input_box, add_button]])
-window.read()
-print("Done with app ;)")
+window = Sg.Window('My To-Do App',
+                   layout=[[label], [input_box, add_button]],
+                   font=('Helvetica', 14))
+while True:
+    event, values = window.read()
+    print(event)
+    print(values)
+    match event:
+        case"Add":
+            todos = functions.get_todos()
+            new_todo = values['todo'] + "\n"
+            todos.append(new_todo)
+            functions.write_todos(todos)
+        case Sg.WIN_CLOSED():
+            break
+
+print("\nDone with app ;)")
 window.close()
+
+
+
