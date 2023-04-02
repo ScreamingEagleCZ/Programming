@@ -19,7 +19,7 @@ while True:
     event, values = window.read()
     print(1, event)
     print(2, values)
-    print(33, values['todos'])
+    print(3, values['todos'])
 
     match event:
         case "Add":
