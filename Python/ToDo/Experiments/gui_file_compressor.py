@@ -1,19 +1,28 @@
-import PySimpleGUI as sg
+import PySimpleGUI as Sg
+from zip_creator import make_archive
 
-label1 = sg.Text("Select files for compression")
-input1 = sg.Input()
-button1 = sg.FilesBrowse("Choose")
 
-label2 = sg.Text("Select destination folder")
-input2 = sg.Input()
-button2 = sg.FolderBrowse("Choose")
+label1 = Sg.Text("Select files for compression")
+input1 = Sg.Input()
+button1 = Sg.FilesBrowse("Choose", key="files")
 
-button3 = sg.Button("Compress")
+label2 = Sg.Text("Select destination folder")
+input2 = Sg.Input()
+button2 = Sg.FolderBrowse("Choose", key="folder")
 
-window = sg.Window("File Compressor",
+button3 = Sg.Button("Compress")
+output_label = Sg.Text("", key="output", text_color="black")
+
+window = Sg.Window("File Compressor",
                    [[label1, input1, button1],
                     [label2, input2, button2],
-                    [button3]])
+                    [button3, output_label]])
+while True:
+    event, values = window.read()
+    filepaths = values["files"].split(';')
+    folder = values["folder"]
+    make_archive(filepaths, folder)
+    window["output"].update(value="Compression completed!")
 
-window.read()
+
 window.close()
