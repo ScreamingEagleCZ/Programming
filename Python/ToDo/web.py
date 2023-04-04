@@ -1,5 +1,13 @@
 import streamlit as st
+# streamlit run web.py - to run the webpage from terminal
 import functions
+
+
+def add_todo():
+    todo = st.session_state["new_todo"] + "\n"
+    todos.append(todo)
+    functions.write_todos(todos)
+
 
 todos = functions.get_todos()
 
@@ -10,4 +18,11 @@ st.write("App for productivity increase")
 for each in todos:
     st.checkbox(each)
 
-st.text_input(label="To-Do Add/Edit here: ", placeholder="Enter a To-Do...")
+st.text_input(label="To-Do Add/Edit here: ",
+              placeholder="Enter a To-Do...",
+              on_change=add_todo,
+              key='new_todo')
+
+print("Hello")
+
+st.session_state  # shows state during development for seeing important stuff
