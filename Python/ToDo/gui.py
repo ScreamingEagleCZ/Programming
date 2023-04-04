@@ -6,13 +6,21 @@ Sg.theme("DarkTeal12")
 clock = Sg.Text('', key='clock')
 label = Sg.Text("Type in a To-Do")
 input_box = Sg.InputText(tooltip="Enter To-Do", key="todo")
-add_button = Sg.Button("Add")
+add_button = Sg.Button(key="Add",
+                       size=20,
+                       image_source="Resources/add.png",
+                       mouseover_colors="DarkGreen",
+                       tooltip="Add To-do")
 list_box = Sg.Listbox(values=functions.get_todos(),
                       key="todos",
                       enable_events=True,
                       size=[45, 10])
 edit_button = Sg.Button("Edit")
-complete_button = Sg.Button("Complete")
+complete_button = Sg.Button(key="Complete",
+                            size=20,
+                            image_source="Resources/complete.png",
+                            mouseover_colors="DarkGreen",
+                            tooltip="Complete To-do")
 exit_button = Sg.Button("Exit")
 
 window = Sg.Window('My To-Do App',
@@ -24,7 +32,7 @@ window = Sg.Window('My To-Do App',
 while True:
     event, values = window.read(timeout=1000)
     window["clock"].update(value=time.strftime("      %b %d, %Y %H:%M:%S"))
-#    print(1, event)    used for reference during programming
+    print(1, event)  # used for reference during programming
 #    print(2, values)
 #    print(3, values['todos'])
 
