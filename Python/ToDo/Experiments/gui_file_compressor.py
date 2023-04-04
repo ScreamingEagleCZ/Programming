@@ -19,10 +19,14 @@ window = Sg.Window("File Compressor",
                     [button3, output_label]])
 while True:
     event, values = window.read()
-    filepaths = values["files"].split(';')
-    folder = values["folder"]
-    make_archive(filepaths, folder)
-    window["output"].update(value="Compression completed!")
+    match event:
+        case "Compress":
+            filepaths = values["files"].split(';')
+            folder = values["folder"]
+            make_archive(filepaths, folder)
+            window["output"].update(value="Compression completed!")
+        case Sg.WINDOW_CLOSED:
+            break
 
 
 window.close()
