@@ -15,8 +15,14 @@ st.title("My To-Do App")
 st.subheader("...by Jakub Mukařovský")
 st.write("App for productivity increase")
 
-for each in todos:
-    st.checkbox(each)
+for index, todo in enumerate(todos):
+    checkbox = st.checkbox(todo, key=todo)
+    if checkbox:
+        todos.pop(index)
+        functions.write_todos(todos)
+        del st.session_state[todo]
+        st.experimental_rerun()
+
 
 st.text_input(label="To-Do Add/Edit here: ",
               placeholder="Enter a To-Do...",
@@ -25,4 +31,4 @@ st.text_input(label="To-Do Add/Edit here: ",
 
 print("Hello")
 
-st.session_state  # shows state during development for seeing important stuff
+# st.session_state  # shows state during development for seeing important stuff
