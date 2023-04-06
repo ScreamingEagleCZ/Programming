@@ -13,7 +13,13 @@ todos = functions.get_todos()
 
 st.title("My To-Do App")
 st.subheader("...by Jakub Mukařovský")
-st.write("App for productivity increase")
+st.write("App for <b>productivity</b> increase",
+         unsafe_allow_html=True)  # tells python to render string as HTML and not text
+
+st.text_input(label="To-Do Add/Edit here: ",
+              placeholder="Enter a To-Do...",
+              on_change=add_todo,
+              key='new_todo')
 
 for index, todo in enumerate(todos):
     checkbox = st.checkbox(todo, key=todo)
@@ -24,10 +30,7 @@ for index, todo in enumerate(todos):
         st.experimental_rerun()
 
 
-st.text_input(label="To-Do Add/Edit here: ",
-              placeholder="Enter a To-Do...",
-              on_change=add_todo,
-              key='new_todo')
+
 
 print("Hello")
 

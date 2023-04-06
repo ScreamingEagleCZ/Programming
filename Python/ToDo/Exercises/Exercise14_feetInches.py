@@ -1,4 +1,4 @@
-from Exercices.Exercise14_functions import parse, convert
+from Exercises.Exercise14_functions import parse, convert
 
 feet_inches = input("Enter feet and inches: ")
 
