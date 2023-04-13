@@ -17,3 +17,11 @@ with col2:
     PLC software for machine, it´s peripheries and communication between all of those and customer network.
     """
     st.info(content)
+
+short_info = """
+This page is built completely in Python...
+Below you can see some apps I built using Python.
+If you have any questions or just want to talk, you can contact me!
+"""
+st.write(short_info)
+
