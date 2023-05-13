@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas  # manages csv files - makes tab of parsed data
 
 st.set_page_config(layout="wide")
 
@@ -25,3 +26,14 @@ If you have any questions or just want to talk, you can contact me!
 """
 st.write(short_info)
 
+col3, col4 = st.columns(2)
+
+df = pandas.read_csv("data.csv", sep=";")  # opens csv data file and separates data by ;
+
+with col3:
+    for index, row in df[:10].iterrows():
+        st.header(row["title"])
+
+with col4:
+    for index, row in df[10:].iterrows():
+        st.header(row["title"])
