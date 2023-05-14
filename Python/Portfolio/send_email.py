@@ -1,12 +1,13 @@
 import smtplib
 import ssl
+import os  # environment variable for hiding password (from win env.variable)
 
 
 def send_email(message):
     host = "smtp.gmail.com"
     port = 465
     username = "jakub.mukarovsky@gmail.com"
-    password = "zwhxebskjdpmijqf"
+    password = os.getenv("PASSWORD")  # hiding pass in environment variable
     receiver = "jakub.mukarovsky@gmail.com"
     context = ssl.create_default_context()
 
