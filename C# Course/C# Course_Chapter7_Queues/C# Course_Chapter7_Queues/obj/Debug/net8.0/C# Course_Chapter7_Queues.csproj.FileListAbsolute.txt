@@ -1,0 +1,14 @@
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\bin\Debug\net8.0\C# Course_Chapter7_Queues.exe
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\bin\Debug\net8.0\C# Course_Chapter7_Queues.deps.json
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\bin\Debug\net8.0\C# Course_Chapter7_Queues.runtimeconfig.json
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\bin\Debug\net8.0\C# Course_Chapter7_Queues.dll
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\bin\Debug\net8.0\C# Course_Chapter7_Queues.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\obj\Debug\net8.0\C# Course_Chapter7_Queues.GeneratedMSBuildEditorConfig.editorconfig
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\obj\Debug\net8.0\C# Course_Chapter7_Queues.AssemblyInfoInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\obj\Debug\net8.0\C# Course_Chapter7_Queues.AssemblyInfo.cs
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\obj\Debug\net8.0\C# Course_Chapter7_Queues.csproj.CoreCompileInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\obj\Debug\net8.0\C# Course_Chapter7_Queues.dll
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\obj\Debug\net8.0\refint\C# Course_Chapter7_Queues.dll
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\obj\Debug\net8.0\C# Course_Chapter7_Queues.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\obj\Debug\net8.0\C# Course_Chapter7_Queues.genruntimeconfig.cache
+Z:\W\Programming\C# Course\CSharp_Work\C# Course_Chapter7_Queues\C# Course_Chapter7_Queues\obj\Debug\net8.0\ref\C# Course_Chapter7_Queues.dll

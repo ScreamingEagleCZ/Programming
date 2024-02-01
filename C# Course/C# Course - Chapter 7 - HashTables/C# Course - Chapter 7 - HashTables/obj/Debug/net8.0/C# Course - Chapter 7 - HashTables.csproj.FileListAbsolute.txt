@@ -1,0 +1,14 @@
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\bin\Debug\net8.0\C# Course - Chapter 7 - HashTables.exe
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\bin\Debug\net8.0\C# Course - Chapter 7 - HashTables.deps.json
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\bin\Debug\net8.0\C# Course - Chapter 7 - HashTables.runtimeconfig.json
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\bin\Debug\net8.0\C# Course - Chapter 7 - HashTables.dll
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\bin\Debug\net8.0\C# Course - Chapter 7 - HashTables.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\obj\Debug\net8.0\C# Course - Chapter 7 - HashTables.GeneratedMSBuildEditorConfig.editorconfig
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\obj\Debug\net8.0\C# Course - Chapter 7 - HashTables.AssemblyInfoInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\obj\Debug\net8.0\C# Course - Chapter 7 - HashTables.AssemblyInfo.cs
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\obj\Debug\net8.0\C# Course - Chapter 7 - HashTables.csproj.CoreCompileInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\obj\Debug\net8.0\C# Course - Chapter 7 - HashTables.dll
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\obj\Debug\net8.0\refint\C# Course - Chapter 7 - HashTables.dll
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\obj\Debug\net8.0\C# Course - Chapter 7 - HashTables.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\obj\Debug\net8.0\C# Course - Chapter 7 - HashTables.genruntimeconfig.cache
+Z:\W\Programming\C# Course\CSharp_Work\C# Course - Chapter 7 - HashTables\C# Course - Chapter 7 - HashTables\obj\Debug\net8.0\ref\C# Course - Chapter 7 - HashTables.dll

@@ -1,0 +1,14 @@
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\bin\Debug\net8.0\C#_Course_Testing_Enviroment.exe
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\bin\Debug\net8.0\C#_Course_Testing_Enviroment.deps.json
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\bin\Debug\net8.0\C#_Course_Testing_Enviroment.runtimeconfig.json
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\bin\Debug\net8.0\C#_Course_Testing_Enviroment.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\bin\Debug\net8.0\C#_Course_Testing_Enviroment.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\obj\Debug\net8.0\C#_Course_Testing_Enviroment.GeneratedMSBuildEditorConfig.editorconfig
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\obj\Debug\net8.0\C#_Course_Testing_Enviroment.AssemblyInfoInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\obj\Debug\net8.0\C#_Course_Testing_Enviroment.AssemblyInfo.cs
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\obj\Debug\net8.0\C#_Course_Testing_Enviroment.csproj.CoreCompileInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\obj\Debug\net8.0\C#_Course_Testing_Enviroment.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\obj\Debug\net8.0\refint\C#_Course_Testing_Enviroment.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\obj\Debug\net8.0\C#_Course_Testing_Enviroment.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\obj\Debug\net8.0\C#_Course_Testing_Enviroment.genruntimeconfig.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#_Course_Testing_Enviroment\C#_Course_Testing_Enviroment\obj\Debug\net8.0\ref\C#_Course_Testing_Enviroment.dll

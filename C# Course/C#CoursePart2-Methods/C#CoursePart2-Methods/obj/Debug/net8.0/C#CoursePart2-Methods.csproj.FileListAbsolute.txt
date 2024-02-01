@@ -1,0 +1,14 @@
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\bin\Debug\net8.0\C#CoursePart2-Methods.exe
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\bin\Debug\net8.0\C#CoursePart2-Methods.deps.json
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\bin\Debug\net8.0\C#CoursePart2-Methods.runtimeconfig.json
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\bin\Debug\net8.0\C#CoursePart2-Methods.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\bin\Debug\net8.0\C#CoursePart2-Methods.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\obj\Debug\net8.0\C#CoursePart2-Methods.GeneratedMSBuildEditorConfig.editorconfig
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\obj\Debug\net8.0\C#CoursePart2-Methods.AssemblyInfoInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\obj\Debug\net8.0\C#CoursePart2-Methods.AssemblyInfo.cs
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\obj\Debug\net8.0\C#CoursePart2-Methods.csproj.CoreCompileInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\obj\Debug\net8.0\C#CoursePart2-Methods.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\obj\Debug\net8.0\refint\C#CoursePart2-Methods.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\obj\Debug\net8.0\C#CoursePart2-Methods.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\obj\Debug\net8.0\C#CoursePart2-Methods.genruntimeconfig.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#CoursePart2-Methods\C#CoursePart2-Methods\obj\Debug\net8.0\ref\C#CoursePart2-Methods.dll
