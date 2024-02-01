@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# Course Chapter 7 - Stacks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0b929f533b7bbf326b77b9f7ab6490a103e9195")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# Course Chapter 7 - Stacks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# Course Chapter 7 - Stacks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

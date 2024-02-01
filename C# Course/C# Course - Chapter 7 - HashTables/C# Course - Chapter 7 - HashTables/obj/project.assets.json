@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\W\\Programming\\C# Course\\CSharp_Work\\C# Course - Chapter 7 - HashTables\\C# Course - Chapter 7 - HashTables\\C# Course - Chapter 7 - HashTables.csproj",
+      "projectUniqueName": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C# Course - Chapter 7 - HashTables\\C# Course - Chapter 7 - HashTables\\C# Course - Chapter 7 - HashTables.csproj",
       "projectName": "C# Course - Chapter 7 - HashTables",
-      "projectPath": "Z:\\W\\Programming\\C# Course\\CSharp_Work\\C# Course - Chapter 7 - HashTables\\C# Course - Chapter 7 - HashTables\\C# Course - Chapter 7 - HashTables.csproj",
+      "projectPath": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C# Course - Chapter 7 - HashTables\\C# Course - Chapter 7 - HashTables\\C# Course - Chapter 7 - HashTables.csproj",
       "packagesPath": "C:\\Users\\j.mukarovsky\\.nuget\\packages\\",
-      "outputPath": "Z:\\W\\Programming\\C# Course\\CSharp_Work\\C# Course - Chapter 7 - HashTables\\C# Course - Chapter 7 - HashTables\\obj\\",
+      "outputPath": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C# Course - Chapter 7 - HashTables\\C# Course - Chapter 7 - HashTables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\j.mukarovsky\\AppData\\Roaming\\NuGet\\NuGet.Config",
