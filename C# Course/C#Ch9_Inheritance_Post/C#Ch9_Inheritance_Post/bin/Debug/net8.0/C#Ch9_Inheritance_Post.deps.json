@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#Ch9_Inheritance_Post/1.0.0": {
+        "runtime": {
+          "C#Ch9_Inheritance_Post.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#Ch9_Inheritance_Post/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

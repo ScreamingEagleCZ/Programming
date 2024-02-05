@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\bin\Debug\net8.0\C# Course - Chapter 9 - Inheritance.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\bin\Debug\net8.0\C# Course - Chapter 9 - Inheritance.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\bin\Debug\net8.0\C# Course - Chapter 9 - Inheritance.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\bin\Debug\net8.0\C# Course - Chapter 9 - Inheritance.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\bin\Debug\net8.0\C# Course - Chapter 9 - Inheritance.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\obj\Debug\net8.0\C# Course - Chapter 9 - Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\obj\Debug\net8.0\C# Course - Chapter 9 - Inheritance.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\obj\Debug\net8.0\C# Course - Chapter 9 - Inheritance.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\obj\Debug\net8.0\C# Course - Chapter 9 - Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\obj\Debug\net8.0\C# Course - Chapter 9 - Inheritance.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\obj\Debug\net8.0\C# Course - Chapter 9 - Inheritance.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\obj\Debug\net8.0\refint\C# Course - Chapter 9 - Inheritance.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\obj\Debug\net8.0\C# Course - Chapter 9 - Inheritance.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\obj\Debug\net8.0\C# Course - Chapter 9 - Inheritance.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance\obj\Debug\net8.0\ref\C# Course - Chapter 9 - Inheritance.dll
