@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#Ch9_Inheritance_Post")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e869fc2e4aef98bcbcb3d40e976528790de986fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efe899e6aee6896ee6c01626f6329ea6abf34d34")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#Ch9_Inheritance_Post")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#Ch9_Inheritance_Post")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

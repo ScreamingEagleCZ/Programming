@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\bin\Debug\net8.0\C#Course_Chapter9_IEnumerable.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\bin\Debug\net8.0\C#Course_Chapter9_IEnumerable.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\bin\Debug\net8.0\C#Course_Chapter9_IEnumerable.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\bin\Debug\net8.0\C#Course_Chapter9_IEnumerable.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\bin\Debug\net8.0\C#Course_Chapter9_IEnumerable.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\obj\Debug\net8.0\C#Course_Chapter9_IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\obj\Debug\net8.0\C#Course_Chapter9_IEnumerable.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\obj\Debug\net8.0\C#Course_Chapter9_IEnumerable.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\obj\Debug\net8.0\C#Course_Chapter9_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\obj\Debug\net8.0\C#Course_Chapter9_IEnumerable.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\obj\Debug\net8.0\C#Course_Chapter9_IEnumerable.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\obj\Debug\net8.0\refint\C#Course_Chapter9_IEnumerable.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\obj\Debug\net8.0\C#Course_Chapter9_IEnumerable.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\obj\Debug\net8.0\C#Course_Chapter9_IEnumerable.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter9_IEnumerable\C#Course_Chapter9_IEnumerable\obj\Debug\net8.0\ref\C#Course_Chapter9_IEnumerable.dll
