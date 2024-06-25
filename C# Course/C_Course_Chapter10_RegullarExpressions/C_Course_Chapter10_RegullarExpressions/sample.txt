@@ -1,0 +1,34 @@
+﻿1234567890
+
+705-421-8540
+875-485-6244
+987-562-7456
+632-666-4525
+111-555-3334
+444-555-6668
+123.855.7457
+0175/12345678
++49165/12312347
+0049165/12312347
+	
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+	
+Lala La La LaLa
+	
+Mr. Panjuta
+Mr Muller
+Mr Robertson
+Mr. G
+Ms Smith
+Ms Jackson
+	
+// Challenge - find website links
+https://www.tutorials.eu
+https://tutorials.eu
+http://wwwtutorials.eu
+http://tutorials.eu
+
+testtest.com
+Metacharacters (Need to be escaped):
+.[]{}()\+/|?*-

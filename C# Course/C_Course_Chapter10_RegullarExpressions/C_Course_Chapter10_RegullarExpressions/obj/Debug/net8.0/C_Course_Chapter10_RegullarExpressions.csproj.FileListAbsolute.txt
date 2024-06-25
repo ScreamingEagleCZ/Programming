@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\bin\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\bin\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\bin\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\bin\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\bin\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\obj\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\obj\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\obj\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\obj\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\obj\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\obj\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\obj\Debug\net8.0\refint\C_Course_Chapter10_RegullarExpressions.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\obj\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\obj\Debug\net8.0\C_Course_Chapter10_RegullarExpressions.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_RegullarExpressions\C_Course_Chapter10_RegullarExpressions\obj\Debug\net8.0\ref\C_Course_Chapter10_RegullarExpressions.dll
