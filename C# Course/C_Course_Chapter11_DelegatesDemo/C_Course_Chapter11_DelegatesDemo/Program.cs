@@ -17,10 +17,20 @@
             List<Person> people = new List<Person>() { p1, p2, p3, p4 };
 
             DisplayPeople("Kiddies", people, IsChild);
-            Console.WriteLine("************");
             DisplayPeople("Adultos", people, IsAdult);
-            Console.WriteLine("************");
             DisplayPeople("Gerontos", people, IsSenior);
+
+            // here is created a new variable called filter of type FilterDelegate.
+            // it has assigned anonymous method to it instead of an already defined method
+            FilterDelegate filter = delegate (Person p)
+            {
+                return p.Age >= 20 && p.Age <= 30;
+            };  // there has to be ";" at the end since its definition of variable and at the same time assigning it
+            DisplayPeople("20 to 30", people, filter);  // usement of above anonymous method/variable "filter"
+
+            // anonymous method - similar as above
+            DisplayPeople("All: ", people, delegate (Person p) { return true; });
+
         }
 
         // a method to display the list of people that passes the filter condition
