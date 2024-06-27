@@ -1,0 +1,17 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\bin\Debug\net8.0\C_Course_Chapter10_MainFCArgs.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\bin\Debug\net8.0\C_Course_Chapter10_MainFCArgs.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\bin\Debug\net8.0\C_Course_Chapter10_MainFCArgs.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\bin\Debug\net8.0\C_Course_Chapter10_MainFCArgs.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\bin\Debug\net8.0\C_Course_Chapter10_MainFCArgs.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\C_Course_Chapter10_MainFCArgs.Properties.Resources.resources
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\C_Course_Chapter10_MainFCArgs.csproj.GenerateResource.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\C_Course_Chapter10_MainFCArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\C_Course_Chapter10_MainFCArgs.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\C_Course_Chapter10_MainFCArgs.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\C_Course_Chapter10_MainFCArgs.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\C_Course_Chapter10_MainFCArgs.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\C_Course_Chapter10_MainFCArgs.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\refint\C_Course_Chapter10_MainFCArgs.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\C_Course_Chapter10_MainFCArgs.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\C_Course_Chapter10_MainFCArgs.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MainFCArgs\C_Course_Chapter10_MainFCArgs\obj\Debug\net8.0\ref\C_Course_Chapter10_MainFCArgs.dll

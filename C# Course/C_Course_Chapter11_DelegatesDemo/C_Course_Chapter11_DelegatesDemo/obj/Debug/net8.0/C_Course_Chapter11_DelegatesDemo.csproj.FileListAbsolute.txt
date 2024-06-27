@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\bin\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\bin\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\bin\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\bin\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\bin\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\obj\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\obj\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\obj\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\obj\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\obj\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\obj\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\obj\Debug\net8.0\refint\C_Course_Chapter11_DelegatesDemo.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\obj\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\obj\Debug\net8.0\C_Course_Chapter11_DelegatesDemo.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter11_DelegatesDemo\C_Course_Chapter11_DelegatesDemo\obj\Debug\net8.0\ref\C_Course_Chapter11_DelegatesDemo.dll
