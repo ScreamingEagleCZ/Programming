@@ -28,9 +28,24 @@
             };  // there has to be ";" at the end since its definition of variable and at the same time assigning it
             DisplayPeople("20 to 30", people, filter);  // usement of above anonymous method/variable "filter"
 
-            // anonymous method - similar as above
+            // ANONYMOUS METHOD - similar as above
             DisplayPeople("All: ", people, delegate (Person p) { return true; });
 
+            // LAMBDA STATEMENT -
+            string searchKeyword = "a";
+            DisplayPeople("Age > 20 with search keyword: " + searchKeyword, people, p =>
+            {
+                if (p.Name.Contains(searchKeyword) && p.Age > 20)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            });
+            // LAMBDA EXPRESSION - using only one line of code - in opposite to above
+            DisplayPeople("People Exactly having 37 years", people, p => p.Age == 37);
         }
 
         // a method to display the list of people that passes the filter condition
