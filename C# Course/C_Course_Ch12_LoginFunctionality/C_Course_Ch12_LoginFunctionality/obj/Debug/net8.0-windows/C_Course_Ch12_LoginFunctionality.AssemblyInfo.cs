@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C_Course_Ch12_LoginFunctionality")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a8874029eeaf5b5ae220c4e79709523608a6fee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+313df57ab5b47aa7c18537af6f0fd5879510beb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("C_Course_Ch12_LoginFunctionality")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C_Course_Ch12_LoginFunctionality")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

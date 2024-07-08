@@ -3,20 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch12_LoginFunctionality\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_ch12_loginfunctionality\\c_course_ch12_loginfunctionality\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|solutionrelative:c_course_ch12_loginfunctionality\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch12_ListBox\\C_Course_Ch12_ListBox\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_ch12_loginfunctionality\\c_course_ch12_loginfunctionality\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|solutionrelative:c_course_ch12_loginfunctionality\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_ch12_loginfunctionality\\c_course_ch12_loginfunctionality\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|solutionrelative:c_course_ch12_loginfunctionality\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_ch12_loginfunctionality\\c_course_ch12_loginfunctionality\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|solutionrelative:c_course_ch12_loginfunctionality\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_ch12_loginfunctionality\\c_course_ch12_loginfunctionality\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|solutionrelative:c_course_ch12_loginfunctionality\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_ch12_loginfunctionality\\c_course_ch12_loginfunctionality\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|solutionrelative:c_course_ch12_loginfunctionality\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_ch12_loginfunctionality\\c_course_ch12_loginfunctionality\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AFD95F-587B-40F2-9FDD-3A2E876670D5}|C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality.csproj|solutionrelative:c_course_ch12_loginfunctionality\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +29,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch12_ListBox\\C_Course_Ch12_ListBox\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\C_Course_Ch12_ListBox\\C_Course_Ch12_ListBox\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch12_ListBox\\C_Course_Ch12_ListBox\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\C_Course_Ch12_ListBox\\C_Course_Ch12_ListBox\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T08:47:07.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "C_Course_Ch12_LoginFunctionality\\LoginView.xaml.cs",
               "ToolTip": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality\\LoginView.xaml.cs",
               "RelativeToolTip": "C_Course_Ch12_LoginFunctionality\\LoginView.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCwAAAAUAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T06:54:58.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality\\LoginView.xaml",
               "RelativeDocumentMoniker": "C_Course_Ch12_LoginFunctionality\\LoginView.xaml",
@@ -55,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality\\MainWindow.xaml",
               "RelativeDocumentMoniker": "C_Course_Ch12_LoginFunctionality\\MainWindow.xaml",
@@ -67,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch12_LoginFunctionality\\C_Course_Ch12_LoginFunctionality\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "C_Course_Ch12_LoginFunctionality\\MainWindow.xaml.cs",

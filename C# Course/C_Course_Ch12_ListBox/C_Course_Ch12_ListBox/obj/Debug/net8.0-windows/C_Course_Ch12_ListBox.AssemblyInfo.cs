@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C_Course_Ch12_ListBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fa77f81403b56b4567fa498147517e911fae50c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+313df57ab5b47aa7c18537af6f0fd5879510beb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("C_Course_Ch12_ListBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C_Course_Ch12_ListBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
