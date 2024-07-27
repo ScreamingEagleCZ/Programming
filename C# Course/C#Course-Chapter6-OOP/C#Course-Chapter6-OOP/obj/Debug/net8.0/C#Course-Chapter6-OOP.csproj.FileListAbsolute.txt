@@ -1,0 +1,14 @@
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\obj\Debug\net8.0\C#Course-Chapter6-OOP.GeneratedMSBuildEditorConfig.editorconfig
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\obj\Debug\net8.0\C#Course-Chapter6-OOP.AssemblyInfoInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\obj\Debug\net8.0\C#Course-Chapter6-OOP.AssemblyInfo.cs
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\obj\Debug\net8.0\C#Course-Chapter6-OOP.csproj.CoreCompileInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\bin\Debug\net8.0\C#Course-Chapter6-OOP.exe
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\bin\Debug\net8.0\C#Course-Chapter6-OOP.deps.json
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\bin\Debug\net8.0\C#Course-Chapter6-OOP.runtimeconfig.json
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\bin\Debug\net8.0\C#Course-Chapter6-OOP.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\bin\Debug\net8.0\C#Course-Chapter6-OOP.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\obj\Debug\net8.0\C#Course-Chapter6-OOP.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\obj\Debug\net8.0\refint\C#Course-Chapter6-OOP.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\obj\Debug\net8.0\C#Course-Chapter6-OOP.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\obj\Debug\net8.0\C#Course-Chapter6-OOP.genruntimeconfig.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#Course-Chapter6-OOP\C#Course-Chapter6-OOP\obj\Debug\net8.0\ref\C#Course-Chapter6-OOP.dll

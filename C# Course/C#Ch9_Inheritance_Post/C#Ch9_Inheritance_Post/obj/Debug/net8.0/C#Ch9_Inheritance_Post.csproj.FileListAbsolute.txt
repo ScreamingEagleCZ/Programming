@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\bin\Debug\net8.0\C#Ch9_Inheritance_Post.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\bin\Debug\net8.0\C#Ch9_Inheritance_Post.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\bin\Debug\net8.0\C#Ch9_Inheritance_Post.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\bin\Debug\net8.0\C#Ch9_Inheritance_Post.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\bin\Debug\net8.0\C#Ch9_Inheritance_Post.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\obj\Debug\net8.0\C#Ch9_Inheritance_Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\obj\Debug\net8.0\C#Ch9_Inheritance_Post.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\obj\Debug\net8.0\C#Ch9_Inheritance_Post.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\obj\Debug\net8.0\C#Ch9_Inheritance_Post.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\obj\Debug\net8.0\C#Ch9_Inheritance_Post.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\obj\Debug\net8.0\C#Ch9_Inheritance_Post.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\obj\Debug\net8.0\refint\C#Ch9_Inheritance_Post.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\obj\Debug\net8.0\C#Ch9_Inheritance_Post.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\obj\Debug\net8.0\C#Ch9_Inheritance_Post.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Ch9_Inheritance_Post\C#Ch9_Inheritance_Post\obj\Debug\net8.0\ref\C#Ch9_Inheritance_Post.dll

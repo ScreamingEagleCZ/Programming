@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\bin\Debug\net8.0\C_Course_Chapter10_Random.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\bin\Debug\net8.0\C_Course_Chapter10_Random.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\bin\Debug\net8.0\C_Course_Chapter10_Random.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\bin\Debug\net8.0\C_Course_Chapter10_Random.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\bin\Debug\net8.0\C_Course_Chapter10_Random.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\obj\Debug\net8.0\C_Course_Chapter10_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\obj\Debug\net8.0\C_Course_Chapter10_Random.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\obj\Debug\net8.0\C_Course_Chapter10_Random.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\obj\Debug\net8.0\C_Course_Chapter10_Random.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\obj\Debug\net8.0\C_Course_Chapter10_Random.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\obj\Debug\net8.0\C_Course_Chapter10_Random.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\obj\Debug\net8.0\refint\C_Course_Chapter10_Random.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\obj\Debug\net8.0\C_Course_Chapter10_Random.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\obj\Debug\net8.0\C_Course_Chapter10_Random.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Random\C_Course_Chapter10_Random\obj\Debug\net8.0\ref\C_Course_Chapter10_Random.dll

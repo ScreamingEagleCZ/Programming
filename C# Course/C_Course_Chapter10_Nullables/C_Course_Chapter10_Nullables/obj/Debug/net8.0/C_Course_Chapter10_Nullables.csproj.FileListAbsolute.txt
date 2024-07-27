@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\bin\Debug\net8.0\C_Course_Chapter10_Nullables.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\bin\Debug\net8.0\C_Course_Chapter10_Nullables.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\bin\Debug\net8.0\C_Course_Chapter10_Nullables.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\bin\Debug\net8.0\C_Course_Chapter10_Nullables.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\bin\Debug\net8.0\C_Course_Chapter10_Nullables.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\obj\Debug\net8.0\C_Course_Chapter10_Nullables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\obj\Debug\net8.0\C_Course_Chapter10_Nullables.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\obj\Debug\net8.0\C_Course_Chapter10_Nullables.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\obj\Debug\net8.0\C_Course_Chapter10_Nullables.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\obj\Debug\net8.0\C_Course_Chapter10_Nullables.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\obj\Debug\net8.0\C_Course_Chapter10_Nullables.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\obj\Debug\net8.0\refint\C_Course_Chapter10_Nullables.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\obj\Debug\net8.0\C_Course_Chapter10_Nullables.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\obj\Debug\net8.0\C_Course_Chapter10_Nullables.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_Nullables\C_Course_Chapter10_Nullables\obj\Debug\net8.0\ref\C_Course_Chapter10_Nullables.dll

@@ -1,0 +1,14 @@
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+Z:\W\Programming\C# Course\CSharp_Work\TicTacToe\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll

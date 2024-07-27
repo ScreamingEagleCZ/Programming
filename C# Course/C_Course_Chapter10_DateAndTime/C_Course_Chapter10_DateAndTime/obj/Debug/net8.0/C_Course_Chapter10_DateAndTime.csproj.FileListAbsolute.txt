@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\bin\Debug\net8.0\C_Course_Chapter10_DateAndTime.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\bin\Debug\net8.0\C_Course_Chapter10_DateAndTime.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\bin\Debug\net8.0\C_Course_Chapter10_DateAndTime.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\bin\Debug\net8.0\C_Course_Chapter10_DateAndTime.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\bin\Debug\net8.0\C_Course_Chapter10_DateAndTime.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\obj\Debug\net8.0\C_Course_Chapter10_DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\obj\Debug\net8.0\C_Course_Chapter10_DateAndTime.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\obj\Debug\net8.0\C_Course_Chapter10_DateAndTime.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\obj\Debug\net8.0\C_Course_Chapter10_DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\obj\Debug\net8.0\C_Course_Chapter10_DateAndTime.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\obj\Debug\net8.0\C_Course_Chapter10_DateAndTime.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\obj\Debug\net8.0\refint\C_Course_Chapter10_DateAndTime.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\obj\Debug\net8.0\C_Course_Chapter10_DateAndTime.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\obj\Debug\net8.0\C_Course_Chapter10_DateAndTime.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_DateAndTime\C_Course_Chapter10_DateAndTime\obj\Debug\net8.0\ref\C_Course_Chapter10_DateAndTime.dll

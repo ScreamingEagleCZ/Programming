@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\bin\Debug\net8.0\C# Course - Chapter 8 - Debugging.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\bin\Debug\net8.0\C# Course - Chapter 8 - Debugging.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\bin\Debug\net8.0\C# Course - Chapter 8 - Debugging.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\bin\Debug\net8.0\C# Course - Chapter 8 - Debugging.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\bin\Debug\net8.0\C# Course - Chapter 8 - Debugging.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\obj\Debug\net8.0\C# Course - Chapter 8 - Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\obj\Debug\net8.0\C# Course - Chapter 8 - Debugging.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\obj\Debug\net8.0\C# Course - Chapter 8 - Debugging.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\obj\Debug\net8.0\C# Course - Chapter 8 - Debugging.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\obj\Debug\net8.0\C# Course - Chapter 8 - Debugging.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\obj\Debug\net8.0\C# Course - Chapter 8 - Debugging.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\obj\Debug\net8.0\refint\C# Course - Chapter 8 - Debugging.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\obj\Debug\net8.0\C# Course - Chapter 8 - Debugging.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\obj\Debug\net8.0\C# Course - Chapter 8 - Debugging.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Course - Chapter 8 - Debugging\C# Course - Chapter 8 - Debugging\obj\Debug\net8.0\ref\C# Course - Chapter 8 - Debugging.dll

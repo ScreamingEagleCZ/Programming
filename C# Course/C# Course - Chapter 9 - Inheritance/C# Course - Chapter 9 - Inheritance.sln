@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# Course - Chapter 9 - Inheritance", "C# Course - Chapter 9 - Inheritance\C# Course - Chapter 9 - Inheritance.csproj", "{A745582A-11E7-4BE1-B06A-E01D52BD7782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A745582A-11E7-4BE1-B06A-E01D52BD7782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A745582A-11E7-4BE1-B06A-E01D52BD7782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A745582A-11E7-4BE1-B06A-E01D52BD7782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A745582A-11E7-4BE1-B06A-E01D52BD7782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F288D1B-BB98-4417-A7B8-CA298F8B870D}
+	EndGlobalSection
+EndGlobal

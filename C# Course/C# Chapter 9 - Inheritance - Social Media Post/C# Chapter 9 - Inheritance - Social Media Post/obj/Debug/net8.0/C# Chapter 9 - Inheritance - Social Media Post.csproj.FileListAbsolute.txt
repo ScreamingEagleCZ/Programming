@@ -1,0 +1,1 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C# Chapter 9 - Inheritance - Social Media Post\C# Chapter 9 - Inheritance - Social Media Post\obj\Debug\net8.0\C# Chapter 9 - Inheritance - Social Media Post.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,14 @@
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+Z:\W\Programming\C# Course\CSharp_Work\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

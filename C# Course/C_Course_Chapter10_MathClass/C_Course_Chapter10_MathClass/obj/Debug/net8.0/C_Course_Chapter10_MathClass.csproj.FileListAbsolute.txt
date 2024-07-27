@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\bin\Debug\net8.0\C_Course_Chapter10_MathClass.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\bin\Debug\net8.0\C_Course_Chapter10_MathClass.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\bin\Debug\net8.0\C_Course_Chapter10_MathClass.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\bin\Debug\net8.0\C_Course_Chapter10_MathClass.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\bin\Debug\net8.0\C_Course_Chapter10_MathClass.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\obj\Debug\net8.0\C_Course_Chapter10_MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\obj\Debug\net8.0\C_Course_Chapter10_MathClass.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\obj\Debug\net8.0\C_Course_Chapter10_MathClass.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\obj\Debug\net8.0\C_Course_Chapter10_MathClass.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\obj\Debug\net8.0\C_Course_Chapter10_MathClass.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\obj\Debug\net8.0\C_Course_Chapter10_MathClass.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\obj\Debug\net8.0\refint\C_Course_Chapter10_MathClass.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\obj\Debug\net8.0\C_Course_Chapter10_MathClass.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\obj\Debug\net8.0\C_Course_Chapter10_MathClass.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter10_MathClass\C_Course_Chapter10_MathClass\obj\Debug\net8.0\ref\C_Course_Chapter10_MathClass.dll

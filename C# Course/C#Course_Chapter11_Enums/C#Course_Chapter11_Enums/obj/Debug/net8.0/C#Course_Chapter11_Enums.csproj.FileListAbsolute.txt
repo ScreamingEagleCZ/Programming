@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\bin\Debug\net8.0\C#Course_Chapter11_Enums.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\bin\Debug\net8.0\C#Course_Chapter11_Enums.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\bin\Debug\net8.0\C#Course_Chapter11_Enums.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\bin\Debug\net8.0\C#Course_Chapter11_Enums.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\bin\Debug\net8.0\C#Course_Chapter11_Enums.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\obj\Debug\net8.0\C#Course_Chapter11_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\obj\Debug\net8.0\C#Course_Chapter11_Enums.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\obj\Debug\net8.0\C#Course_Chapter11_Enums.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\obj\Debug\net8.0\C#Course_Chapter11_Enums.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\obj\Debug\net8.0\C#Course_Chapter11_Enums.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\obj\Debug\net8.0\C#Course_Chapter11_Enums.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\obj\Debug\net8.0\refint\C#Course_Chapter11_Enums.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\obj\Debug\net8.0\C#Course_Chapter11_Enums.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\obj\Debug\net8.0\C#Course_Chapter11_Enums.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter11_Enums\C#Course_Chapter11_Enums\obj\Debug\net8.0\ref\C#Course_Chapter11_Enums.dll

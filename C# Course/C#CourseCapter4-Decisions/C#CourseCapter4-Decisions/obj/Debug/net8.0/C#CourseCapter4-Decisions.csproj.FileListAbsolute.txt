@@ -1,0 +1,14 @@
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\bin\Debug\net8.0\C#CourseCapter4-Decisions.exe
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\bin\Debug\net8.0\C#CourseCapter4-Decisions.deps.json
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\bin\Debug\net8.0\C#CourseCapter4-Decisions.runtimeconfig.json
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\bin\Debug\net8.0\C#CourseCapter4-Decisions.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\bin\Debug\net8.0\C#CourseCapter4-Decisions.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\obj\Debug\net8.0\C#CourseCapter4-Decisions.GeneratedMSBuildEditorConfig.editorconfig
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\obj\Debug\net8.0\C#CourseCapter4-Decisions.AssemblyInfoInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\obj\Debug\net8.0\C#CourseCapter4-Decisions.AssemblyInfo.cs
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\obj\Debug\net8.0\C#CourseCapter4-Decisions.csproj.CoreCompileInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\obj\Debug\net8.0\C#CourseCapter4-Decisions.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\obj\Debug\net8.0\refint\C#CourseCapter4-Decisions.dll
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\obj\Debug\net8.0\C#CourseCapter4-Decisions.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\obj\Debug\net8.0\C#CourseCapter4-Decisions.genruntimeconfig.cache
+Z:\W\Programming\C# Course\CSharp_Work\C#CourseCapter4-Decisions\C#CourseCapter4-Decisions\obj\Debug\net8.0\ref\C#CourseCapter4-Decisions.dll

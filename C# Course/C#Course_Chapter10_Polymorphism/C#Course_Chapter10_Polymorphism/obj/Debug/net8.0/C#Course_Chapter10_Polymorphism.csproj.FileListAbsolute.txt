@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\bin\Debug\net8.0\C#Course_Chapter10_Polymorphism.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\bin\Debug\net8.0\C#Course_Chapter10_Polymorphism.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\bin\Debug\net8.0\C#Course_Chapter10_Polymorphism.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\bin\Debug\net8.0\C#Course_Chapter10_Polymorphism.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\bin\Debug\net8.0\C#Course_Chapter10_Polymorphism.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\obj\Debug\net8.0\C#Course_Chapter10_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\obj\Debug\net8.0\C#Course_Chapter10_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\obj\Debug\net8.0\C#Course_Chapter10_Polymorphism.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\obj\Debug\net8.0\C#Course_Chapter10_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\obj\Debug\net8.0\C#Course_Chapter10_Polymorphism.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\obj\Debug\net8.0\C#Course_Chapter10_Polymorphism.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\obj\Debug\net8.0\refint\C#Course_Chapter10_Polymorphism.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\obj\Debug\net8.0\C#Course_Chapter10_Polymorphism.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\obj\Debug\net8.0\C#Course_Chapter10_Polymorphism.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_Polymorphism\C#Course_Chapter10_Polymorphism\obj\Debug\net8.0\ref\C#Course_Chapter10_Polymorphism.dll

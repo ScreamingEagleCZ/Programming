@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#_Course_Testing_Enviroment/1.0.0": {
+        "runtime": {
+          "C#_Course_Testing_Enviroment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_Course_Testing_Enviroment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\bin\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\bin\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.deps.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\bin\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.runtimeconfig.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\bin\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\bin\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\obj\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\obj\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.AssemblyInfoInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\obj\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.AssemblyInfo.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\obj\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\obj\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.sourcelink.json
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\obj\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\obj\Debug\net8.0\refint\C#Course_Chapter10_ReadWriteTextFile.dll
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\obj\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\obj\Debug\net8.0\C#Course_Chapter10_ReadWriteTextFile.genruntimeconfig.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C#Course_Chapter10_ReadWriteTextFile\C#Course_Chapter10_ReadWriteTextFile\obj\Debug\net8.0\ref\C#Course_Chapter10_ReadWriteTextFile.dll

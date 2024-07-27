@@ -1,0 +1,3 @@
+First entry
+Fourth Entry
+Appended text from StreamWriter using append boolean

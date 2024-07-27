@@ -1,0 +1,14 @@
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\bin\Debug\net8.0\C# Course Chapter 7 - Dictionary.exe
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\bin\Debug\net8.0\C# Course Chapter 7 - Dictionary.deps.json
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\bin\Debug\net8.0\C# Course Chapter 7 - Dictionary.runtimeconfig.json
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\bin\Debug\net8.0\C# Course Chapter 7 - Dictionary.dll
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\bin\Debug\net8.0\C# Course Chapter 7 - Dictionary.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\obj\Debug\net8.0\C# Course Chapter 7 - Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\obj\Debug\net8.0\C# Course Chapter 7 - Dictionary.AssemblyInfoInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\obj\Debug\net8.0\C# Course Chapter 7 - Dictionary.AssemblyInfo.cs
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\obj\Debug\net8.0\C# Course Chapter 7 - Dictionary.csproj.CoreCompileInputs.cache
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\obj\Debug\net8.0\C# Course Chapter 7 - Dictionary.dll
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\obj\Debug\net8.0\refint\C# Course Chapter 7 - Dictionary.dll
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\obj\Debug\net8.0\C# Course Chapter 7 - Dictionary.pdb
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\obj\Debug\net8.0\C# Course Chapter 7 - Dictionary.genruntimeconfig.cache
+Z:\W\Programming\C# Course\CSharp_Work\C# Course Chapter 7 - Dictionary\C# Course Chapter 7 - Dictionary\obj\Debug\net8.0\ref\C# Course Chapter 7 - Dictionary.dll
