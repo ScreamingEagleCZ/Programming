@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter14_Currency_Converter\\C_Course_C14_Curr_Conv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAEBBF4-2FCF-432F-8B23-46141AE62796}|C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv.csproj|C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter14_Currency_Converter\\C_Course_C14_Curr_Conv\\c_course_c14_curr_conv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAEBBF4-2FCF-432F-8B23-46141AE62796}|C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv.csproj|solutionrelative:c_course_c14_curr_conv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAEBBF4-2FCF-432F-8B23-46141AE62796}|C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_chapter14_currency_converter\\c_course_c14_curr_conv\\c_course_c14_curr_conv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CBAEBBF4-2FCF-432F-8B23-46141AE62796}|C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv.csproj|solutionrelative:c_course_c14_curr_conv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAEBBF4-2FCF-432F-8B23-46141AE62796}|C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv.csproj|C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter14_Currency_Converter\\C_Course_C14_Curr_Conv\\c_course_c14_curr_conv\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CBAEBBF4-2FCF-432F-8B23-46141AE62796}|C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv.csproj|solutionrelative:c_course_c14_curr_conv\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter14_Currency_Converter\\C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv\\App.xaml",
+              "RelativeDocumentMoniker": "C_Course_C14_Curr_Conv\\App.xaml",
+              "ToolTip": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter14_Currency_Converter\\C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv\\App.xaml",
+              "RelativeToolTip": "C_Course_C14_Curr_Conv\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T08:55:25.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter14_Currency_Converter\\C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "C_Course_C14_Curr_Conv\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter14_Currency_Converter\\C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv\\MainWindow.xaml",
+              "RelativeToolTip": "C_Course_C14_Curr_Conv\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T07:45:18.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter14_Currency_Converter\\C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "C_Course_C14_Curr_Conv\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter14_Currency_Converter\\C_Course_C14_Curr_Conv\\C_Course_C14_Curr_Conv\\MainWindow.xaml.cs",
+              "RelativeToolTip": "C_Course_C14_Curr_Conv\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAA9wIEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:45:18.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

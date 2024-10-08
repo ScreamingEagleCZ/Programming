@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\bin\Debug\C_Course_C14_Curr_Conv.exe.config
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\bin\Debug\C_Course_C14_Curr_Conv.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\bin\Debug\C_Course_C14_Curr_Conv.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\C_Course_C14_Curr_Conv.csproj.AssemblyReference.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\MainWindow.g.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\App.g.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\C_Course_C14_Curr_Conv_MarkupCompile.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\C_Course_C14_Curr_Conv_MarkupCompile.lref
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\MainWindow.baml
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\C_Course_C14_Curr_Conv.g.resources
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\C_Course_C14_Curr_Conv.Properties.Resources.resources
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\C_Course_C14_Curr_Conv.csproj.GenerateResource.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\C_Course_C14_Curr_Conv.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\C_Course_C14_Curr_Conv.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter14_Currency_Converter\C_Course_C14_Curr_Conv\C_Course_C14_Curr_Conv\obj\Debug\C_Course_C14_Curr_Conv.pdb

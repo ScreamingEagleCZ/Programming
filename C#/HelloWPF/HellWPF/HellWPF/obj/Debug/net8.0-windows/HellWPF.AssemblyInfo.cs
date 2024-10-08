@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("C_Course_Ch12_ListBox")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HellWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6eb17e3e460c8a11e66c3f619afcb2476be77a88")]
-[assembly: System.Reflection.AssemblyProductAttribute("C_Course_Ch12_ListBox")]
-[assembly: System.Reflection.AssemblyTitleAttribute("C_Course_Ch12_ListBox")]
+[assembly: System.Reflection.AssemblyProductAttribute("HellWPF")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HellWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

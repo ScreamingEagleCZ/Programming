@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\CurrencyConverter_Static\\CurrencyConverter_Static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2152C7AF-FCFD-40AE-BFA6-AC57CA3AF808}|CurrencyConverter_Static\\CurrencyConverter_Static.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\currencyconverter_static\\currencyconverter_static\\currencyconverter_static\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152C7AF-FCFD-40AE-BFA6-AC57CA3AF808}|CurrencyConverter_Static\\CurrencyConverter_Static.csproj|solutionrelative:currencyconverter_static\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152C7AF-FCFD-40AE-BFA6-AC57CA3AF808}|CurrencyConverter_Static\\CurrencyConverter_Static.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\currencyconverter_static\\currencyconverter_static\\currencyconverter_static\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2152C7AF-FCFD-40AE-BFA6-AC57CA3AF808}|CurrencyConverter_Static\\CurrencyConverter_Static.csproj|solutionrelative:currencyconverter_static\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\CurrencyConverter_Static\\CurrencyConverter_Static\\CurrencyConverter_Static\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CurrencyConverter_Static\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\CurrencyConverter_Static\\CurrencyConverter_Static\\CurrencyConverter_Static\\MainWindow.xaml",
+              "RelativeToolTip": "CurrencyConverter_Static\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T06:16:12.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\CurrencyConverter_Static\\CurrencyConverter_Static\\CurrencyConverter_Static\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter_Static\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\CurrencyConverter_Static\\CurrencyConverter_Static\\CurrencyConverter_Static\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CurrencyConverter_Static\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:16:12.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
