@@ -1,0 +1,15 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\bin\Debug\WPF_GarageManager.exe.config
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\bin\Debug\WPF_GarageManager.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\bin\Debug\WPF_GarageManager.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\WPF_GarageManager.csproj.AssemblyReference.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\MainWindow.g.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\App.g.cs
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\WPF_GarageManager_MarkupCompile.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\WPF_GarageManager_MarkupCompile.lref
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\MainWindow.baml
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\WPF_GarageManager.g.resources
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\WPF_GarageManager.Properties.Resources.resources
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\WPF_GarageManager.csproj.GenerateResource.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\WPF_GarageManager.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\WPF_GarageManager.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_Chapter15_SQL_Garage\WPF_GarageManager\WPF_GarageManager\obj\Debug\WPF_GarageManager.pdb
