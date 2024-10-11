@@ -5,12 +5,32 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_GarageManager"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="725">
+        Title="Garage Manager" Height="500" Width="600">
     <Grid>
         <Label Content="Garage List" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
-        <ListBox Name="listGarages" HorizontalAlignment="Left" Margin="10,41,0,268" Height="175"  Width="158" SelectionChanged="listGarages_SelectionChanged"/>
+        <ListBox Name="listGarages" HorizontalAlignment="Left" Margin="10,41,0,191"  Width="158" SelectionChanged="listGarages_SelectionChanged"/>
         <Label Content="Associated Cars List" HorizontalAlignment="Left" Margin="204,10,0,0" VerticalAlignment="Top"/>
-        <ListBox x:Name="listAssociatedCars" HorizontalAlignment="Left" Margin="204,41,0,268" Height="175"  Width="158"/>
+        <ListBox x:Name="listAssociatedCars" HorizontalAlignment="Left" Margin="204,41,0,191"  Width="158"/>
+        <ListBox x:Name="listCars" HorizontalAlignment="Left" Margin="400,41,0,117"  Width="158" RenderTransformOrigin="0.5,0.5" SelectionChanged="listCars_SelectionChanged">
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0.324"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.994"/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
+        </ListBox>
+        <Button Content="Delete Garage" HorizontalAlignment="Left" Margin="10,341,0,0" VerticalAlignment="Top" Height="32" Width="158" Click="DeleteGarage_Click"/>
+        <Button Content="Remove Car" HorizontalAlignment="Left" Margin="204,341,0,0" VerticalAlignment="Top" Height="32" Width="158" Click="RemoveCar_Click"/>
+        <Button Content="Add Car to List" HorizontalAlignment="Left" Margin="400,378,0,0" VerticalAlignment="Top" Height="32" Width="158" Click="AddCarToList_Click"/>
+        <Button Content="Add Garage" HorizontalAlignment="Left" Margin="10,378,0,0" VerticalAlignment="Top" Height="32" Width="158" Click="AddGarage_Click"/>
+        <Button Content="Add to Garage" HorizontalAlignment="Left" Margin="204,378,0,0" VerticalAlignment="Top" Height="32" Width="158" Click="AddToGarage_Click"/>
+        <Button Content="Delete Car from List" HorizontalAlignment="Left" Margin="400,415,0,0" VerticalAlignment="Top" Height="32" Width="158" Click="DeleteCarFromList_Click"/>
+        <Label Content="Possible Cars" HorizontalAlignment="Left" Margin="408,10,0,0" VerticalAlignment="Top"/>
+        <Button Content="Update Garage" HorizontalAlignment="Left" Margin="10,415,0,0" VerticalAlignment="Top" Height="32" Width="158" Click="UpdateGarage_Click"/>
+        <Button Content="Update Cars" HorizontalAlignment="Left" Margin="204,415,0,0" VerticalAlignment="Top" Height="32" Width="158" Click="UpdateCars_Click"/>
+        <TextBox Name="myTextBox" HorizontalAlignment="Left" Margin="10,298,0,0" TextWrapping="Wrap" Text="xxX" VerticalAlignment="Top" Width="352" Height="38" FontSize="28"/>
 
     </Grid>
 </Window>

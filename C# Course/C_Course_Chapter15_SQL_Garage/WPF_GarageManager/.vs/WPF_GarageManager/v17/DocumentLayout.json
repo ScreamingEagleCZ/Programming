@@ -3,21 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter15_SQL_Garage\\WPF_GarageManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86A49C52-7D96-4E67-A2D9-44C5D7E40BF8}|WPF_GarageManager\\WPF_GarageManager.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_chapter15_sql_garage\\wpf_garagemanager\\wpf_garagemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86A49C52-7D96-4E67-A2D9-44C5D7E40BF8}|WPF_GarageManager\\WPF_GarageManager.csproj|C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter15_SQL_Garage\\WPF_GarageManager\\wpf_garagemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86A49C52-7D96-4E67-A2D9-44C5D7E40BF8}|WPF_GarageManager\\WPF_GarageManager.csproj|solutionrelative:wpf_garagemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86A49C52-7D96-4E67-A2D9-44C5D7E40BF8}|WPF_GarageManager\\WPF_GarageManager.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_chapter15_sql_garage\\wpf_garagemanager\\wpf_garagemanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{86A49C52-7D96-4E67-A2D9-44C5D7E40BF8}|WPF_GarageManager\\WPF_GarageManager.csproj|C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter15_SQL_Garage\\WPF_GarageManager\\wpf_garagemanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{86A49C52-7D96-4E67-A2D9-44C5D7E40BF8}|WPF_GarageManager\\WPF_GarageManager.csproj|solutionrelative:wpf_garagemanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_MV6FO33_PANJUTORIALSSQL/PanjutorialsDB/sa/SqlTable/dbo.GarageCar.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_MV6FO33_PANJUTORIALSSQL/PanjutorialsDB/sa/SqlTable/dbo.Car.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86A49C52-7D96-4E67-A2D9-44C5D7E40BF8}|WPF_GarageManager\\WPF_GarageManager.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_chapter15_sql_garage\\wpf_garagemanager\\wpf_garagemanager\\panjutorialsdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "AbsoluteMoniker": "D:0:0:{86A49C52-7D96-4E67-A2D9-44C5D7E40BF8}|WPF_GarageManager\\WPF_GarageManager.csproj|C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter15_SQL_Garage\\WPF_GarageManager\\wpf_garagemanager\\panjutorialsdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{86A49C52-7D96-4E67-A2D9-44C5D7E40BF8}|WPF_GarageManager\\WPF_GarageManager.csproj|solutionrelative:wpf_garagemanager\\panjutorialsdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     }
   ],
@@ -28,31 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dbo.GarageCar [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_MV6FO33_PANJUTORIALSSQL/PanjutorialsDB/sa/SqlTable/dbo.GarageCar.sql",
-              "ToolTip": "dbo.GarageCar [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-08T11:51:27.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.Car [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_MV6FO33_PANJUTORIALSSQL/PanjutorialsDB/sa/SqlTable/dbo.Car.sql",
-              "ToolTip": "dbo.Car [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-08T11:35:57.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "PanjutorialsDBDataSet.xsd",
               "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter15_SQL_Garage\\WPF_GarageManager\\WPF_GarageManager\\PanjutorialsDBDataSet.xsd",
               "RelativeDocumentMoniker": "WPF_GarageManager\\PanjutorialsDBDataSet.xsd",
@@ -80,9 +54,9 @@
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter15_SQL_Garage\\WPF_GarageManager\\WPF_GarageManager\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPF_GarageManager\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter15_SQL_Garage\\WPF_GarageManager\\WPF_GarageManager\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WPF_GarageManager\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGcAAAAhAAAA",
+              "ToolTip": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Chapter15_SQL_Garage\\WPF_GarageManager\\WPF_GarageManager\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "WPF_GarageManager\\MainWindow.xaml.cs*",
+              "ViewState": "AQIAAIIAAAAAAAAAAAApwJAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T11:28:04.386Z",
               "EditorCaption": ""
