@@ -240,12 +240,49 @@ namespace WPF_GarageManager
 
         private void UpdateGarage_Click(object sender, RoutedEventArgs e)
         {
-
+            try
+            {
+                string query = "update Garage Set Location = @Location where Id = @GarageId";
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                sqlCommand.Parameters.AddWithValue("@GarageId", listGarages.SelectedValue);
+                sqlCommand.Parameters.AddWithValue("@Location", myTextBox.Text);
+                sqlCommand.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            finally
+            {
+                sqlConnection.Close();
+                ShowGarages();
+            }
         }
 
         private void RemoveCar_Click(object sender, RoutedEventArgs e)
         {
+            try
+            {
+                string query = "delete from GarageCar where GarageId = @GarageId and CarId = @CarId";
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
 
+                sqlCommand.Parameters.AddWithValue("@GarageId", listGarages.SelectedValue);
+                sqlCommand.Parameters.AddWithValue("@CarId", listAssociatedCars.SelectedValue);
+                sqlCommand.ExecuteScalar();
+            }
+            catch (Exception x)
+            {
+                MessageBox.Show(x.ToString());
+            }
+            finally
+            {
+                sqlConnection.Close();
+                ShowAssociatedCars();
+                ShowGarages();
+                
+            }
         }
 
         private void AddToGarage_Click(object sender, RoutedEventArgs e)
@@ -272,7 +309,24 @@ namespace WPF_GarageManager
 
         private void UpdateCars_Click(object sender, RoutedEventArgs e)
         {
-
+            try
+            {
+                string query = "update Car Set Name = @Name where Id = @NameId";
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                sqlCommand.Parameters.AddWithValue("@NameId", listCars.SelectedValue);
+                sqlCommand.Parameters.AddWithValue("@Name", myTextBox.Text);
+                sqlCommand.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            finally
+            {
+                sqlConnection.Close();
+                ShowCars();
+            }
         }
 
         private void AddCarToList_Click(object sender, RoutedEventArgs e)
