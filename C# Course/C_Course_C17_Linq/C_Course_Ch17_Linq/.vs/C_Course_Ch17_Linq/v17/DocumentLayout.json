@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_C17_Linq\\C_Course_Ch17_Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{426B8E4B-570E-44C5-824B-B71B99A35734}|C_Course_Ch17_Linq\\C_Course_Ch17_Linq.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_c17_linq\\c_course_ch17_linq\\c_course_ch17_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426B8E4B-570E-44C5-824B-B71B99A35734}|C_Course_Ch17_Linq\\C_Course_Ch17_Linq.csproj|solutionrelative:c_course_ch17_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_C17_Linq\\C_Course_Ch17_Linq\\C_Course_Ch17_Linq\\Program.cs",
+              "RelativeDocumentMoniker": "C_Course_Ch17_Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_C17_Linq\\C_Course_Ch17_Linq\\C_Course_Ch17_Linq\\Program.cs",
+              "RelativeToolTip": "C_Course_Ch17_Linq\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:26:13.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

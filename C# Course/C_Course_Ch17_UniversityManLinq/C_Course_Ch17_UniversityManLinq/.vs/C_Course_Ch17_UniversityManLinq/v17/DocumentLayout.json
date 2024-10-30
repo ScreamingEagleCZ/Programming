@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch17_UniversityManLinq\\C_Course_Ch17_UniversityManLinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54FA06DF-31FF-42FE-BB62-FB26B4B5A3EF}|C_Course_Ch17_UniversityManLinq\\C_Course_Ch17_UniversityManLinq.csproj|c:\\users\\j.mukarovsky\\documents\\github\\programming\\c# course\\c_course_ch17_universitymanlinq\\c_course_ch17_universitymanlinq\\c_course_ch17_universitymanlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FA06DF-31FF-42FE-BB62-FB26B4B5A3EF}|C_Course_Ch17_UniversityManLinq\\C_Course_Ch17_UniversityManLinq.csproj|solutionrelative:c_course_ch17_universitymanlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch17_UniversityManLinq\\C_Course_Ch17_UniversityManLinq\\C_Course_Ch17_UniversityManLinq\\Program.cs",
+              "RelativeDocumentMoniker": "C_Course_Ch17_UniversityManLinq\\Program.cs",
+              "ToolTip": "C:\\Users\\j.mukarovsky\\Documents\\GitHub\\Programming\\C# Course\\C_Course_Ch17_UniversityManLinq\\C_Course_Ch17_UniversityManLinq\\C_Course_Ch17_UniversityManLinq\\Program.cs",
+              "RelativeToolTip": "C_Course_Ch17_UniversityManLinq\\Program.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAYwJQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:03:45.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

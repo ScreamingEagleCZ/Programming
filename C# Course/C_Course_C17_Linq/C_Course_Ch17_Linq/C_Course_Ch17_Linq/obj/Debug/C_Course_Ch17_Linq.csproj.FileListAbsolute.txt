@@ -1,0 +1,7 @@
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_C17_Linq\C_Course_Ch17_Linq\C_Course_Ch17_Linq\obj\Debug\C_Course_Ch17_Linq.csproj.AssemblyReference.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_C17_Linq\C_Course_Ch17_Linq\C_Course_Ch17_Linq\obj\Debug\C_Course_Ch17_Linq.csproj.CoreCompileInputs.cache
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_C17_Linq\C_Course_Ch17_Linq\C_Course_Ch17_Linq\bin\Debug\C_Course_Ch17_Linq.exe.config
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_C17_Linq\C_Course_Ch17_Linq\C_Course_Ch17_Linq\bin\Debug\C_Course_Ch17_Linq.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_C17_Linq\C_Course_Ch17_Linq\C_Course_Ch17_Linq\bin\Debug\C_Course_Ch17_Linq.pdb
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_C17_Linq\C_Course_Ch17_Linq\C_Course_Ch17_Linq\obj\Debug\C_Course_Ch17_Linq.exe
+C:\Users\j.mukarovsky\Documents\GitHub\Programming\C# Course\C_Course_C17_Linq\C_Course_Ch17_Linq\C_Course_Ch17_Linq\obj\Debug\C_Course_Ch17_Linq.pdb
