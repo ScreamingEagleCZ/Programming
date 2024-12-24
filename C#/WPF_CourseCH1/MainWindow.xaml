@@ -5,14 +5,216 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_CourseCH1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button x:Name="LeButton" 
-                Content="Yolo" 
-                Width="100" 
-                Height="30" 
-                FontSize="20" 
-                FontWeight="Bold"
-                Click="LeButton_Click"></Button>
+        Title="Wokno" Height="600" Width="950"
+        Background="LightSlateGray">
+    <Grid Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="300"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="300"/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <TextBlock x:Name="TextBlock_Header"
+                       FontSize="20"
+                       DockPanel.Dock="Top"
+                       HorizontalAlignment="Center"
+                       Margin="10">Hello <Bold>Sugar...</Bold>
+                <LineBreak/>
+                Go to <Hyperlink NavigateUri="https://www.google.com"
+                                 RequestNavigate="Hyperlink_RequestNavigate"
+                                 >Google</Hyperlink>
+            </TextBlock>
+            <TextBlock TextWrapping="WrapWithOverflow">
+                "Learning a little each day adds up. 
+                Research shows that students who make learning a habit are more likely to reach their goals. Set time aside to learn and get reminders using your learning scheduler."
+            </TextBlock>
+            <Button x:Name="LeButton"
+                    DockPanel.Dock="Bottom"
+                    Content="Yolo" 
+                    Width="100" 
+                    Height="30" 
+                    FontSize="20" 
+                    FontWeight="Bold"
+                    VerticalAlignment="Bottom"
+                    Margin="10"
+                    Click="LeButton_Click"></Button>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <Label>
+                <StackPanel Orientation="Vertical"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center">
+                    <StackPanel Orientation="Horizontal"
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center">
+                        <Image Source="https://static.vecteezy.com/system/resources/thumbnails/005/695/103/small_2x/st-patrick-s-female-leprechaun-esport-mascot-logo-design-free-vector.jpg"
+                           Width="100"
+                               Margin="10,10,10,0"/>
+                        <TextBlock Margin="5,0,0,0"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Center"
+                               FontSize="24" 
+                               FontWeight="Bold"
+                               Foreground="LawnGreen"
+                               >Get a Beer!!!</TextBlock>
+                    </StackPanel>
+                    <TextBox
+                        Width="250"
+                        Height="50"
+                        Background="Beige"
+                        VerticalAlignment="Center"
+                        Margin="16,16,16,0"
+                        BorderThickness="2"
+                        BorderBrush="Khaki"
+                        FontSize="32">
+                    </TextBox>
+                </StackPanel>
+            </Label>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <TextBox Margin="10"  
+                     Height="60"
+                     FontSize="20"
+                     AcceptsReturn="True"
+                     TextWrapping="Wrap"
+                     Background="LightGray"
+                     SpellCheck.IsEnabled="True"
+                     Language="enus"/>
+            <Button x:Name="LeButton2"
+                    Margin="10"
+                    Height="30"
+                    FontSize="18"
+                    Click="LeButton2_Click"
+                    MouseDoubleClick="LeButton2_MouseDoubleClick"
+                    MouseEnter="LeButton2_MouseEnter"
+                    MouseLeave="LeButton2_MouseLeave">Click me</Button>
+            <Label Name="LeLabel"
+                   Margin="10,5,10,0">Hello Dolly</Label>
+        </StackPanel>
+        <StackPanel Grid.Row="1"
+                    Grid.Column="1">
+            <Label
+                FontSize="18"
+                FontWeight="Bold">What car do you vote for?</Label>
+            <RadioButton x:Name="BMW_button"
+                         GroupName="Car"
+                         VerticalContentAlignment="Center"
+                         Checked="BMW_button_Checked"
+                         Unchecked="BMW_button_Unchecked">
+                <WrapPanel>
+                    <Image Source="https://w7.pngwing.com/pngs/285/461/png-transparent-bmw-m-car-bmw-5-series-logo-bmw-emblem-trademark-logo.png"
+                           Height="16"/>
+                    <Label x:Name="BMW_label"
+                           Background="Transparent">BMW</Label>
+                </WrapPanel>
+            </RadioButton>
+            <RadioButton x:Name="Audi_button"
+                         GroupName="Car"
+                         VerticalContentAlignment="Center"
+                         Checked="Audi_button_Checked"
+                         Unchecked="Audi_button_Unchecked">
+                <WrapPanel>
+                    <Image Source="https://image.similarpng.com/very-thumbnail/2020/09/Audi-logo-icon-on-transparent-background-PNG.png"
+                           Height="16"/>
+                    <Label x:Name="Audi_label"
+                           Background="Transparent">Audi</Label>
+                </WrapPanel>
+            </RadioButton>
+            <RadioButton x:Name="Mercedes_button"
+                         GroupName="Car"
+                         VerticalContentAlignment="Center"
+                         Checked="Mercedes_button_Checked"
+                         Unchecked="Mercedes_button_Unchecked">
+                <WrapPanel>
+                    <Image Source="https://thumbs.dreamstime.com/b/web-136350849.jpg"
+                           Height="16"/>
+                    <Label x:Name="Mercedes_label"
+                           Background="Transparent">Mercedes</Label>
+                </WrapPanel>
+            </RadioButton>
+            <RadioButton x:Name="Nissan_button"
+                         GroupName="Car"
+                         VerticalContentAlignment="Center"
+                         Checked="Nissan_button_Checked"
+                         Unchecked="Nissan_button_Unchecked">
+                <WrapPanel>
+                    <Image Source="https://hips.hearstapps.com/hmg-prod/images/nissan-brand-logo-1200x938-1594842787.jpg"
+                           Height="16"/>
+                    <Label x:Name="Nissan_label"
+                           Background="Transparent">Nissan</Label>
+                </WrapPanel>
+            </RadioButton>
+            <Label Name="CarChoose"/>
+            <Label FontSize="18"
+                   FontWeight="Bold">How do u feel about it?</Label>
+            <RadioButton x:Name="Great_button" 
+                GroupName="Feeling">Great!</RadioButton>
+            <RadioButton GroupName="Feeling"
+                         x:Name="OK_button">Okayish</RadioButton>
+            <RadioButton GroupName="Feeling"
+                         x:Name="Gay_button">Gayish...</RadioButton>
+        </StackPanel>
+        <StackPanel Grid.Column="2" Grid.Row="1">
+            <CheckBox x:Name="Master"
+                      VerticalContentAlignment="Center"
+                      Checked="Master_Checked"
+                      Unchecked="Master_Unchecked">
+                <Label FontSize="18"
+       FontWeight="Bold">Finishing Touches</Label>
+            </CheckBox>
+            
+            <CheckBox x:Name="Engine"
+                      Checked="Engine_Checked"
+                      Unchecked="Engine_Unchecked"
+                      VerticalContentAlignment="Center"
+                      IsEnabled="False"
+                      Margin="10,0,0,0">
+                <Label x:Name="Engine_lbl">V8 Engine</Label>
+            </CheckBox>
+            <CheckBox x:Name="Wheels"
+                      Checked="Wheels_Checked"
+                      Unchecked="Wheels_Unchecked"
+                      VerticalContentAlignment="Center"
+                      IsEnabled="False"
+                      Margin="10,0,0,0">
+                <Label x:Name="Wheels_lbl">Cast racing wheels</Label>
+            </CheckBox>
+            <CheckBox x:Name="Body"
+                      Checked="Body_Checked"
+                      Unchecked="Body_Unchecked"
+                      VerticalContentAlignment="Center"
+                      IsEnabled="False"
+                      Margin="10,0,0,0">
+                <Label x:Name="Body_lbl">Sport Body Kit</Label>
+            </CheckBox>
+            <CheckBox x:Name="Infotainment"
+                      Checked="Infotainment_Checked"
+                      Unchecked="Infotainment_Unchecked"
+                      VerticalContentAlignment="Center"
+                      IsEnabled="False"
+                      Margin="10,0,0,0">
+                <Label x:Name="Infotainment_lbl">Pro Infotainment</Label>
+            </CheckBox>
+            <CheckBox x:Name="Seats"
+                      Checked="Seats_Checked"
+                      Unchecked="Seats_Unchecked"
+                      VerticalContentAlignment="Center"
+                      IsEnabled="False"
+                      Margin="10,0,0,0">
+                <Label x:Name="Seats_lbl">Racing Seats</Label>
+            </CheckBox>
+            <CheckBox x:Name="Suspension"
+                      Checked="Suspension_Checked"
+                      Unchecked="Suspension_Unchecked"
+                      VerticalContentAlignment="Center"
+                      IsEnabled="False"
+                      Margin="10,0,0,0">
+                <Label x:Name="Suspension_lbl">Adaptable Suspension</Label>
+            </CheckBox>
+        </StackPanel>
     </Grid>
 </Window>
