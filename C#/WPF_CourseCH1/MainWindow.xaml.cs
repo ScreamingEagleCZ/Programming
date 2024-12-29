@@ -218,5 +218,10 @@ namespace WPF_CourseCH1
             Seats.IsEnabled = false;
             Suspension.IsEnabled = false;
         }
+
+        private void ImageHomer_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            HomerIMG.Source = new BitmapImage(new Uri(@"/WPF_CourseCH1;component/Images/homer.png", UriKind.Relative));
+        }
     }
 }

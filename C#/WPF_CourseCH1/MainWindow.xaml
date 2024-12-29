@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_CourseCH1"
         mc:Ignorable="d"
-        Title="Wokno" Height="600" Width="950"
+        Title="Wokno" Height="850" Width="950"
         Background="LightSlateGray">
     <Grid Margin="0,0,0,0">
         <Grid.ColumnDefinitions>
@@ -15,6 +15,7 @@
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="200"/>
+            <RowDefinition Height="300"/>
             <RowDefinition Height="300"/>
         </Grid.RowDefinitions>
         <StackPanel>
@@ -215,6 +216,30 @@
                       Margin="10,0,0,0">
                 <Label x:Name="Suspension_lbl">Adaptable Suspension</Label>
             </CheckBox>
+        </StackPanel>
+        <StackPanel Grid.Column="2">
+            <WrapPanel>
+                <Label FontSize="25"
+                       Margin="0,10,0,0">Name: </Label>
+                <TextBox Width="180"
+                         FontSize="25"
+                         Margin="37,10,0,0"></TextBox>
+            </WrapPanel>
+            <WrapPanel>
+                <Label FontSize="25">Password:</Label>
+                <PasswordBox Width="180"
+                             FontSize="25"
+                             PasswordChar="x"
+                             MaxLength="4"></PasswordBox>
+            </WrapPanel>
+        </StackPanel>
+        <StackPanel Grid.Row="2">
+            <Image x:Name="HomerIMG"
+                   Width="130"
+                   Margin="10,0,0,0" 
+                   Visibility="Visible"
+                   MouseUp="ImageHomer_MouseUp"
+                   Source="pack://application:,,,/Images/Homer_Simpson_2006.png" />
         </StackPanel>
     </Grid>
 </Window>
