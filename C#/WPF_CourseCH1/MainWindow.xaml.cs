@@ -223,5 +223,19 @@ namespace WPF_CourseCH1
         {
             HomerIMG.Source = new BitmapImage(new Uri(@"/WPF_CourseCH1;component/Images/homer.png", UriKind.Relative));
         }
+
+        private void Slider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+            if (SliderTextBlock != null)
+            {
+                SliderTextBlock.Text = $"Slider value is: {Slider.Value.ToString()} by CS-code";
+                if (Slider.Value == 10)
+                {
+                    SliderTextBlock.Text = "XXX";
+                }
+                SliderTextBlock.FontSize = Slider.Value;
+            }
+            
+        }
     }
 }

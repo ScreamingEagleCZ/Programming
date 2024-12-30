@@ -241,5 +241,18 @@
                    MouseUp="ImageHomer_MouseUp"
                    Source="pack://application:,,,/Images/Homer_Simpson_2006.png" />
         </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" Margin="20">
+            <TextBlock x:Name="SliderTextBlock"
+                       FontSize="20"></TextBlock>
+            <Slider x:Name="Slider" 
+                    Maximum="20"
+                    Minimum="10"
+                    TickPlacement="BottomRight"
+                    TickFrequency="1"
+                    IsSnapToTickEnabled="True"
+                    Value="50"
+                    ValueChanged="Slider_ValueChanged"></Slider>
+            <TextBlock FontSize="{Binding ElementName=Slider, Path=Value, UpdateSourceTrigger=PropertyChanged}">XAML binding version of font size</TextBlock>
+        </StackPanel>
     </Grid>
 </Window>
