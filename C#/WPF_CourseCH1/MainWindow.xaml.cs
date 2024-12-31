@@ -237,5 +237,10 @@ namespace WPF_CourseCH1
             }
             
         }
+
+        private void Calendar_SelectedDatesChanged(object sender, SelectionChangedEventArgs e)
+        {
+            CalendarTextBlock.Text = Calendar.SelectedDate.ToString();
+        }
     }
 }

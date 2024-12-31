@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_CourseCH1"
         mc:Ignorable="d"
-        Title="Wokno" Height="850" Width="950"
+        Title="Wokno" Height="950" Width="950"
         Background="LightSlateGray">
     <Grid Margin="0,0,0,0">
         <Grid.ColumnDefinitions>
@@ -16,7 +16,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="200"/>
             <RowDefinition Height="300"/>
-            <RowDefinition Height="300"/>
+            <RowDefinition Height="400"/>
         </Grid.RowDefinitions>
         <StackPanel>
             <TextBlock x:Name="TextBlock_Header"
@@ -242,6 +242,16 @@
                    Source="pack://application:,,,/Images/Homer_Simpson_2006.png" />
         </StackPanel>
         <StackPanel Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" Margin="20">
+            <Viewbox Stretch="Uniform">
+                <Calendar x:Name="Calendar" 
+                          FontStretch="SemiCondensed"
+                          SelectedDatesChanged="Calendar_SelectedDatesChanged">
+                    <Calendar.BlackoutDates>
+                        <CalendarDateRange Start="12.20.2024" End="01.10.2025"/>
+                    </Calendar.BlackoutDates>
+                </Calendar>
+            </Viewbox>
+            <TextBlock x:Name="CalendarTextBlock"/>
             <TextBlock x:Name="SliderTextBlock"
                        FontSize="20"></TextBlock>
             <Slider x:Name="Slider" 
