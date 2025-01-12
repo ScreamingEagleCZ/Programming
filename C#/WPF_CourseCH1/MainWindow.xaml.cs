@@ -242,5 +242,19 @@ namespace WPF_CourseCH1
         {
             CalendarTextBlock.Text = Calendar.SelectedDate.ToString();
         }
+
+        private void DatePicker_SelectedDateChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if ((sender as DatePicker).SelectedDate != null)
+            {
+                string myDate = (sender as DatePicker).SelectedDate.ToString();
+                MessageBox.Show($"Date has been changed to {myDate}");
+            }
+        }
+
+        private void Expander_Expanded(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Booyakasha!!!");
+        }
     }
 }

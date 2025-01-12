@@ -1,0 +1,31 @@
+﻿<Window x:Class="WPF_Course_CH3_DogYears.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Course_CH3_DogYears"
+        mc:Ignorable="d"
+        Title="Dog Years to Human Years" Height="390" Width="350"
+        Background="SandyBrown">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="How old is your dog? (years)"
+                       FontSize="18"
+                       FontWeight="Bold"
+                       Foreground="SaddleBrown"
+                       Margin="10,10,0,0"/>
+            <TextBox x:Name="InputAge"
+                     MinWidth="50"
+                     Margin="10,10,0,0"
+                     TextAlignment="Center"
+                     FontSize="18"
+                     KeyDown="InputAge_KeyDown"/>
+        </StackPanel>
+        <TextBlock Name="ResultTextBlock"
+                   Text="Your dog is the age of XX years old human."
+                   Margin="10"
+                   FontSize="16"/>
+        <Image Source="https://img.freepik.com/premium-vector/cute-pug-dog-logo-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-flat_138676-6623.jpg"
+               Width="250"/>
+    </StackPanel>
+</Window>

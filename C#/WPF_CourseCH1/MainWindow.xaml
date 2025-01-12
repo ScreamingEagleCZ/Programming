@@ -241,8 +241,8 @@
                    MouseUp="ImageHomer_MouseUp"
                    Source="pack://application:,,,/Images/Homer_Simpson_2006.png" />
         </StackPanel>
-        <StackPanel Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" Margin="20">
-            <Viewbox Stretch="Uniform">
+        <StackPanel Grid.Column="1" Grid.Row="2" VerticalAlignment="Top" Margin="20">
+            <Viewbox Stretch="None">
                 <Calendar x:Name="Calendar" 
                           FontStretch="SemiCondensed"
                           SelectedDatesChanged="Calendar_SelectedDatesChanged">
@@ -251,6 +251,13 @@
                     </Calendar.BlackoutDates>
                 </Calendar>
             </Viewbox>
+            <DatePicker x:Name="DatePicker"
+                        SelectedDateFormat="Long"
+                        SelectedDateChanged="DatePicker_SelectedDateChanged">
+                <DatePicker.BlackoutDates>
+                    <CalendarDateRange Start="01.01.00" End="01.02.2025"/>
+                </DatePicker.BlackoutDates>
+            </DatePicker>
             <TextBlock x:Name="CalendarTextBlock"/>
             <TextBlock x:Name="SliderTextBlock"
                        FontSize="20"></TextBlock>
@@ -263,6 +270,28 @@
                     Value="50"
                     ValueChanged="Slider_ValueChanged"></Slider>
             <TextBlock FontSize="{Binding ElementName=Slider, Path=Value, UpdateSourceTrigger=PropertyChanged}">XAML binding version of font size</TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="2">
+            <Expander Expanded="Expander_Expanded">
+                <Expander.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Height="20" Source="https://static-00.iconduck.com/assets.00/expand-1-icon-512x512-ko9gk9qj.png"></Image>
+                        <TextBlock>Click to expand/collapse</TextBlock>
+                    </StackPanel>
+                </Expander.Header>
+                <StackPanel>
+                    <Button>Click me</Button>
+                    <TextBlock TextWrapping="Wrap"
+                               FontSize="20">
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+                        nisi ut aliquip ex ea commodo consequat. Curabitur ligula sapien, pulvinar a 
+                        vestibulum quis, facilisis vel sapien. Mauris suscipit, ligula sit amet pharetra 
+                        semper, nibh ante cursus purus, vel sagittis velit mauris vel metus. Mauris metus. 
+                        Donec ipsum massa, ullamcorper in, auctor et, scelerisque sed, est.
+                    </TextBlock>
+                </StackPanel>
+            </Expander>
         </StackPanel>
     </Grid>
 </Window>

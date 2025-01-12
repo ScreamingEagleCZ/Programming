@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "WPF_CourseCH3_DogYears_CodeOnly/1.0.0": {
+        "runtime": {
+          "WPF_CourseCH3_DogYears_CodeOnly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF_CourseCH3_DogYears_CodeOnly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
