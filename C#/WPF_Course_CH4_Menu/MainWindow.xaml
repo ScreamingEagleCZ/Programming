@@ -46,5 +46,26 @@
                 </MenuItem>
             </MenuItem>
         </Menu>
+        <ToolBarTray DockPanel.Dock="Top" Background="MediumPurple">
+            <ToolBar Background="LightGreen">
+                <Button Click="Print_Click" ToolTip="Print That Shit!">
+                    <Image Width="20" Source="https://cdn-icons-png.flaticon.com/512/3022/3022251.png"/>
+                </Button>
+                <Separator/>
+                <Button Click="Delete_Click" ToolTip="Get rid of that!">
+                    <Image Width="20" Source="https://cdn-icons-png.flaticon.com/512/1214/1214428.png"/>
+                </Button>
+            </ToolBar>
+            <ToolBar Background="LightBlue">
+                <Label>Font Size:</Label>
+                <ComboBox Name="cbFontSize"  SelectionChanged="cbFontSize_SelectionChanged" ToolTip="How big u like it?">
+                    <ComboBoxItem>10</ComboBoxItem>
+                    <ComboBoxItem IsSelected="True">20</ComboBoxItem>
+                    <ComboBoxItem>30</ComboBoxItem>
+                    <ComboBoxItem>40</ComboBoxItem>
+                </ComboBox>
+            </ToolBar>
+        </ToolBarTray>
+        <TextBox x:Name="myTextBox">Write a little something in here....</TextBox>
     </DockPanel>
 </Window>

@@ -50,5 +50,31 @@ namespace WPF_Course_CH4_Menu
         {
             MessageBox.Show("Clone Repository clicked...");
         }
+
+        private void Print_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show(myTextBox.Text + " deleted!");
+            myTextBox.Text = "";
+        }
+        private void Delete_Click(object sender, RoutedEventArgs e)
+        {
+
+            myTextBox.Text = "";
+        }
+
+        private void cbFontSize_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ComboBox cbFontSize = (ComboBox)sender;
+            ComboBoxItem cbFontSizeItem = (ComboBoxItem)cbFontSize.SelectedItem;
+            string newFontSize = (string)cbFontSizeItem.Content;
+
+            if (Int32.TryParse(newFontSize, out int temp))
+            {
+                if(myTextBox != null)
+                {
+                    myTextBox.FontSize = temp;
+                }
+            }
+        }
     }
 }
