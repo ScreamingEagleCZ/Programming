@@ -5,6 +5,8 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
+using System.IO;        // for file management
+using Microsoft.Win32;  // for file management
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
@@ -56,12 +58,35 @@ namespace WPF_Course_CH4_Menu
 
         private void Open_File_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Open File clicked...");
+            OpenFileDialog openFileDialog = new OpenFileDialog();   // new object of file dialog
+
+            //openFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments); // default directory to be opened...
+            openFileDialog.InitialDirectory = System.IO.Path.GetFullPath(
+                Environment.CurrentDirectory + @"\..\..\..");
+            openFileDialog.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*"; // possibility to filter which files are allowed to open
+
+            if (openFileDialog.ShowDialog() == true)
+            {
+                tbFilePath.Text = openFileDialog.FileName;   // reads fileName with route fe.: C:\Users\jakub\OneDrive\Documents\Diablo IV\LocalPrefs.txt
+                tbFilePath.Visibility = Visibility.Visible;
+                myTextBox.Text = File.ReadAllText(openFileDialog.FileName);
+            }
         }
 
         private void Open_Project_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Open Project clicked...");
+        }
+        private void SaveFile_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.InitialDirectory = System.IO.Path.GetFullPath(
+                Environment.CurrentDirectory + @"\..\..\..");
+            saveFileDialog.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*"; // possibility to filter which file types are allowed to save
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                File.WriteAllText(saveFileDialog.FileName, myTextBox.Text);
+            }
         }
 
         private void Clone_Click(object sender, RoutedEventArgs e)
@@ -175,6 +200,5 @@ namespace WPF_Course_CH4_Menu
                 return value;
             }
         }
-
     }
 }

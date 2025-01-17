@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Course_CH4_Menu"
         mc:Ignorable="d"
-        Title="MainWindow" Height="300" Width="300">
+        Title="MainWindow" Height="350" Width="350">
     <DockPanel>
         <Menu DockPanel.Dock="Top">
             <MenuItem Header="File">
@@ -36,6 +36,16 @@
                     <MenuItem Header="Project..." Name="Open_Project" Click="Open_Project_Click">
                         <MenuItem.Icon>
                             <Image Source="https://cdn-icons-png.flaticon.com/512/9912/9912615.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="Save">
+                    <MenuItem.Icon>
+                        <Image Source="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/folder_into.png"/>
+                    </MenuItem.Icon>
+                    <MenuItem Header="File..." Name="SaveFile" Click="SaveFile_Click">
+                        <MenuItem.Icon>
+                            <Image Source="https://i.pinimg.com/564x/7a/95/9c/7a959ca2733f36c4b64901a00ef970de.jpg"/>
                         </MenuItem.Icon>
                     </MenuItem>
                 </MenuItem>
@@ -104,6 +114,7 @@
                     </ContextMenu>
                 </Button.ContextMenu>
             </Button>
+            <TextBox Name="tbFilePath" Visibility="Collapsed"/>
         </StackPanel>
     </DockPanel>
 </Window>
