@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Course_CH4_Menu"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="300" Width="300">
     <DockPanel>
         <Menu DockPanel.Dock="Top">
             <MenuItem Header="File">
@@ -66,6 +66,44 @@
                 </ComboBox>
             </ToolBar>
         </ToolBarTray>
-        <TextBox x:Name="myTextBox">Write a little something in here....</TextBox>
+        <StackPanel Margin="10,10,10,10"
+                    Height="Auto">
+            <TextBox x:Name="myTextBox"
+                     Height="120"
+                     Width="250"
+                     HorizontalAlignment="Center"
+                     TextWrapping="Wrap"
+                     TextChanged="myTextBox_TextChanged">
+                <TextBox.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Name="miBold" Header="Bold" IsCheckable="True" Checked="miBold_Checked" Unchecked="miBold_Unchecked"></MenuItem>
+                        <MenuItem Name="miLight" Header="Light" IsCheckable="True" Checked="miLight_Checked" Unchecked="miLight_Unchecked"></MenuItem>
+                        <Separator/>
+                        <MenuItem Name="miItalic" Header="Italic" Click="miItalic_Click"></MenuItem>
+                        <MenuItem Name="miNormal" Header="Normal" Click="miNormal_Click"></MenuItem>
+                        <MenuItem Name="miOblique" Header="Oblique" Click="miOblique_Click"></MenuItem>
+                    </ContextMenu>
+                </TextBox.ContextMenu>
+            </TextBox>
+            <StatusBar Width="250">
+                <StatusBarItem>Filling...</StatusBarItem>
+                <StatusBarItem>
+                    <ProgressBar Name="sbFilling" Width="200" Height="15" Value="0" Foreground="Aquamarine"></ProgressBar>
+                </StatusBarItem>
+            </StatusBar>
+            <Button
+                Height="20"
+                Width="100"
+                HorizontalAlignment="Center"
+                Margin="10"
+                Content="Generate Text"
+                Click="Button_Click">
+                <Button.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Name="miAltText" Header="Alternate_text" IsCheckable="True" IsChecked="False"/>
+                    </ContextMenu>
+                </Button.ContextMenu>
+            </Button>
+        </StackPanel>
     </DockPanel>
 </Window>
