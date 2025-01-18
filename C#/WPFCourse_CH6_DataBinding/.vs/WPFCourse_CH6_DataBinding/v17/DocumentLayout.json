@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|c:\\users\\jakub\\onedrive\\documents\\github\\programming\\c#\\wpfcourse_ch6_databinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|c:\\users\\jakub\\onedrive\\documents\\github\\programming\\c#\\wpfcourse_ch6_databinding\\carslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|solutionrelative:carslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|c:\\users\\jakub\\onedrive\\documents\\github\\programming\\c#\\wpfcourse_ch6_databinding\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|c:\\users\\jakub\\onedrive\\documents\\github\\programming\\c#\\wpfcourse_ch6_databinding\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|c:\\users\\jakub\\onedrive\\documents\\github\\programming\\c#\\wpfcourse_ch6_databinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|c:\\users\\jakub\\onedrive\\documents\\github\\programming\\c#\\wpfcourse_ch6_databinding\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8DDAB6-815A-4E90-8206-D2FEDA3943B1}|WPFCourse_CH6_DataBinding.csproj|solutionrelative:cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\Model.cs",
+              "RelativeDocumentMoniker": "Model.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\Model.cs",
+              "RelativeToolTip": "Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:54:45.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:29:15.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\Cars.cs",
+              "RelativeDocumentMoniker": "Cars.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\Cars.cs",
+              "RelativeToolTip": "Cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:36:39.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowDQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:05:52.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-18T17:05:49.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsList.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\CarsList.cs",
+              "RelativeDocumentMoniker": "CarsList.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Documents\\GitHub\\Programming\\C#\\WPFCourse_CH6_DataBinding\\CarsList.cs",
+              "RelativeToolTip": "CarsList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:30:54.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

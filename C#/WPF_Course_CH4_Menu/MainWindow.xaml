@@ -98,7 +98,7 @@
             <StatusBar Width="250">
                 <StatusBarItem>Filling...</StatusBarItem>
                 <StatusBarItem>
-                    <ProgressBar Name="sbFilling" Width="200" Height="15" Value="0" Foreground="Aquamarine"></ProgressBar>
+                    <ProgressBar Name="sbFilling" Width="195" Height="15" Value="0" Foreground="Aquamarine"></ProgressBar>
                 </StatusBarItem>
             </StatusBar>
             <Button

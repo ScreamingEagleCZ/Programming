@@ -200,5 +200,10 @@ namespace WPF_Course_CH4_Menu
                 return value;
             }
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
